@@ -1,0 +1,2226 @@
+! 6/5/2019 https://douploads.com
+douploads.com###news_last
+douploads.com##[href^="https://www.anonymz.com/"]
+douploads.com##[href="https://www.facebook.com/DoUploads"]
+douploads.com##[href="https://twitter.com/SadeemServices"]
+douploads.com##.fa-pinterest-p.fab
+douploads.com##[href="https://www.pinterest.com/SadeemServices/"]
+douploads.com##[href="https://www.instagram.com/DoUploads/"]
+douploads.com##[href="https://sadeemservices.co/"]
+douploads.com##.fa-youtube.fab
+douploads.com##[href="https://www.youtube.com/channel/UCzEMFzqAEb9XAAGEkI9U1KQ"]
+douploads.com##.text-md-right.col-md-6
+douploads.com##[href^="http://getalinkandshare.com/r"]
+
+! 6/5/2019 https://upload.ac
+upload.ac##.btn-dl-plus.btn-info.btn
+upload.ac##.text-center.col-md-12.dl-plus
+upload.ac##.adsbygoogle
+upload.ac##.fmore
+||www.facebook.com/plugins/like.php$subdocument
+||upload.ac/hg/img/map.png$image
+upload.ac##.img-responsive
+
+! 6/5/2019 https://uploadev.org
+uploadev.org##.offerstxt
+uploadev.org##.colright
+uploadev.org###news_last
+uploadev.org##.logo > ul
+uploadev.org##[href="https://uploadev.org"]
+uploadev.org##.sharetabs
+uploadev.org##.aboutuplouad
+
+! 6/5/2019 https://dropapk.com
+dropapk.com##div.text-center.col-md-4:nth-of-type(1)
+||dropapk.com/ds1/img/true.png$image
+||dropapk.com/ds1/img/false.png$image
+||dropapk.com/ds1/img/true.png$image
+dropapk.com##.share
+dropapk.com##.text-center.buyPremium.alert-success.alert
+dropapk.com##div.row:nth-of-type(4)
+dropapk.com##.report
+
+! 6/5/2019 https://uploadrar.com
+uploadrar.com##.adsbygoogle
+uploadrar.com###lastnews
+uploadrar.com##.banner3
+uploadrar.com###gdpr-cookie-notice
+uploadrar.com###yt-extension
+uploadrar.com##.banner1
+uploadrar.com##.txt
+uploadrar.com##.socialmedia
+uploadrar.com##.aboutus > p
+uploadrar.com##.fa-close.fa
+uploadrar.com##.fa-check.fa
+uploadrar.com##[href="javascript:share_vk(document.location)"]
+uploadrar.com##[href="javascript:share_gplus(document.location)"]
+uploadrar.com##[href="javascript:share_facebook(document.location)"]
+uploadrar.com##.sharefile
+uploadrar.com##.icofont-zipped
+uploadrar.com##.banner2
+uploadrar.com##p:nth-of-type(5) > [href="http://dmca.uploadrar.com"]
+uploadrar.com##p:nth-of-type(4) > [href="http://dmca.uploadrar.com"]
+uploadrar.com##[href="https://uploadrar.com/pages/speed.html"]
+
+! 6/5/2019 https://uploadbyte.com
+uploadbyte.com###last_news
+uploadbyte.com##.report
+uploadbyte.com##.benefitList.fLeft.col-6
+uploadbyte.com##div.col-12:nth-of-type(4)
+uploadbyte.com##.flogo
+uploadbyte.com##.social
+||uploadbyte.com/xFileSharingTemplates/images/shadow.png$image
+||uploadbyte.com/xFileSharingTemplates/images/s*.png$image
+||uploadbyte.com/xFileSharingTemplates/images/logo.png$image
+uploadbyte.com##.fLeft.ads300
+uploadbyte.com##.fRight.ads300
+||uploadbyte.com/xFileSharingTemplates/images/*.png$image
+||uploadbyte.com/xFileSharingTemplates/images/logo.png$image
+
+! 6/5/2019 https://dropapk.com
+dropapk.com##.pt20.col-md-12
+
+! 6/5/2019 https://www.washingtonpost.com
+www.washingtonpost.com##.promo.signup.subscription.content-subscription
+www.washingtonpost.com##.mobile-border.border-bottom-100-pct.border-bottom-hairline
+www.washingtonpost.com###bc-sidebar
+www.washingtonpost.com###crL28W1FvJrnqr
+www.washingtonpost.com###fJYnv91UkTNgpr
+www.washingtonpost.com###f0qxHApUkTNgpr
+www.washingtonpost.com##[href="//www.washingtonpost.com/how-can-i-opt-out-of-online-advertising-cookies/2011/11/18/gIQABECbiN_story.html"]
+www.washingtonpost.com##[href="//www.washingtonpost.com/rss-terms-of-service/2012/01/16/gIQAadFYAQ_story.html"]
+www.washingtonpost.com###subscribe-left-nav
+www.washingtonpost.com###cHkbuU1EvJrnqr
+www.washingtonpost.com##.icon-right.fa-arrow-circle-right.fa
+www.washingtonpost.com##.icon-left.fa-mobile-story.fa
+www.washingtonpost.com##.icon-left.fa-camera.fa
+www.washingtonpost.com##p.interstitial-link
+
+! 6/5/2019 https://www.theatlantic.com
+www.theatlantic.com##.c-ad-container.l-hp-top__ad--mobile.l-hp-top__ad
+www.theatlantic.com##.o-media__credit
+www.theatlantic.com##.c-nav__link--subscribe.c-nav__link--main.c-nav__link
+www.theatlantic.com##.c-ad-container.l-hp-top__ad--full.l-hp-top__ad
+www.theatlantic.com###hp-newslettermodule
+www.theatlantic.com##.c-popular__container--crossword.c-popular__container
+www.theatlantic.com###hp-magazinemodule1
+www.theatlantic.com###hp-podcastmodule
+www.theatlantic.com##.c-latest__video.o-river-container
+www.theatlantic.com###hp-magazineissue
+www.theatlantic.com###leaflets
+www.theatlantic.com###main-navigation-more-menu-2
+www.theatlantic.com##li.c-footer__section:nth-of-type(5)
+www.theatlantic.com###injected-recirculation-link-0
+www.theatlantic.com##.lazyloaded.is-rendered.js-dynamic-content.u-dynamic-content
+www.theatlantic.com###injected-recirculation-link-1
+www.theatlantic.com##.c-article-writer__social
+www.theatlantic.com##.c-leaflets
+www.theatlantic.com##li.c-footer__section:nth-of-type(4)
+www.theatlantic.com##li.c-footer__section:nth-of-type(3)
+www.theatlantic.com##.lazyloaded.is-rendered.js-dynamic-content.u-dynamic-content.l-article-recirc__video
+www.theatlantic.com##li.c-footer__section:nth-of-type(2)
+www.theatlantic.com##li.c-footer__section:nth-of-type(1)
+
+! 6/5/2019 https://wikileaks.org
+wikileaks.org##.donate-link.button-face
+wikileaks.org##.mobile-only.social
+wikileaks.org##.mobile-only.friends
+
+! 6/5/2019 https://www.xda-developers.com
+www.xda-developers.com###twig-top
+www.xda-developers.com##.grecaptcha-badge
+www.xda-developers.com##[src="https://forum.xda-developers.com/op7prolaunch3.html"]
+www.xda-developers.com###purch_Y_L_1_1
+www.xda-developers.com###purch_Y_R_0_1
+www.xda-developers.com###purch_Y_R_0_2
+www.xda-developers.com###newsletter-sidebar-subscribe
+www.xda-developers.com###purch_Y_R_0_4
+www.xda-developers.com##[href="http://forum.xda-developers.com/ad-free"]
+www.xda-developers.com##.xda_suggested_apps.widget
+www.xda-developers.com##.hosted_by > [href^="https://www.leaseweb.com/"]
+www.xda-developers.com##.w-social
+www.xda-developers.com##[href^="https://www.leaseweb.com/"]
+www.xda-developers.com##.f-links
+www.xda-developers.com##.fa-newspaper.fas
+www.xda-developers.com##.thumb_icon
+www.xda-developers.com##.comments
+www.xda-developers.com###purch_Y_R_0_3
+www.xda-developers.com##.meta_format
+www.xda-developers.com##.et_social_inline_bottom.et_social_mobile_on.et_social_inline
+www.xda-developers.com###newsletters-2-form-wrapper
+www.xda-developers.com##.shortcode-content > p
+www.xda-developers.com##.widget.widget-4
+
+! 6/5/2019 https://forum.xda-developers.com
+forum.xda-developers.com###twig-top
+||forum.xda-developers.com/op7prolaunch3.html$subdocument
+forum.xda-developers.com###purch_Y_R_0_1
+forum.xda-developers.com###hosted-by > [href^="https://www.leaseweb.com/"]
+forum.xda-developers.com##.w-social
+forum.xda-developers.com##[href^="https://www.leaseweb.com/"]
+forum.xda-developers.com##.f-links
+forum.xda-developers.com###navbar_container
+forum.xda-developers.com###posts > div:nth-of-type(4)
+forum.xda-developers.com##.postbit-social
+
+! 6/5/2019 https://www.axios.com
+www.axios.com##.StreamCap__padStreamTitle--ZRDll.StreamCap__promoContainer--2-Ev2
+www.axios.com##.ShareLinks__root--38a4-
+www.axios.com##div.NewNavigation__mobileList--33exx:nth-of-type(3)
+www.axios.com##div.NewNavigation__mobileSectionHeader--1Yn_x:nth-of-type(2)
+www.axios.com##.NewNavigation__socialList--2XRNb
+
+! 6/5/2019 https://www.dominos.com
+www.dominos.com##.dom-chat.js-domChat
+
+! 6/5/2019 https://forum.mobilism.org
+forum.mobilism.org###totop
+
+! 6/5/2019 https://www.uploadship.com
+www.uploadship.com##.adsbygoogle
+www.uploadship.com##.cc-color-override-688238583.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+www.uploadship.com###price
+www.uploadship.com##.dmca-badge
+www.uploadship.com##.antivirus
+www.uploadship.com##.blocktxt
+www.uploadship.com##.pt50.clearfix
+www.uploadship.com##.active.btn-getIn.btn
+www.uploadship.com##.reportfile
+www.uploadship.com##[href^="https://www.uploadship.com/register.html"]
+www.uploadship.com##h4
+www.uploadship.com##.text
+www.uploadship.com##.zmdi-star-circle.zmdi
+www.uploadship.com##.fa-link.fa
+www.uploadship.com##.metaRedirectWrapperBottomAds
+www.uploadship.com##.metaRedirectWrapperTopAds
+www.uploadship.com##.fa-file.fa
+www.uploadship.com##.fa-hdd-o.fa
+www.uploadship.com###adcopy-instr-row
+
+! 6/5/2019 https://upload4earn.org
+upload4earn.org###last_news
+upload4earn.org###_pn_1559778217388
+||upload4earn.org/images/strip.png$image
+||upload4earn.org/images/s*.png$image
+upload4earn.org###language
+upload4earn.org##.logo
+upload4earn.org###Prem_days
+
+! 6/5/2019 https://uploadocean.com
+uploadocean.com###topa > [src="https://kotaroyalliving.com/ad728.php"]
+||uploadocean.com/mngez/images/mngez-minspeed.swf$object
+uploadocean.com##.fa-times.fa
+uploadocean.com##.fa-check.fa
+uploadocean.com##.col-lg-4.col-md-4.col-sm-12.col-xs-12 > .logo
+uploadocean.com##[href="https://www.mngez.com/"]
+||uploadocean.com/mngez/images/mngez-maxspeed.swf$object
+uploadocean.com##.title
+uploadocean.com##[href="https://uploadocean.com/dmca.html"]
+uploadocean.com##input:nth-of-type(6)
+uploadocean.com##.opacity_wrapper
+uploadocean.com##.resp-iframe
+uploadocean.com##div.resp-container
+||kotaroyalliving.com/ad*.php$subdocument
+uploadocean.com##[href^="https://uploadocean.com/search.php"]
+uploadocean.com##[href^="http://ghoto-12.win/r/"]
+uploadocean.com##[href="https://www.instagram.com/uploadocean/"]
+uploadocean.com##.premiumfeatures
+uploadocean.com###twitter-widget-0
+uploadocean.com###___ytsubscribe_0
+uploadocean.com##[href^="whatsapp://send"]
+uploadocean.com##.fileinfoarea
+uploadocean.com##.mngez_download1 > .livicon-evo-holder.livicon-evo > .lievo-svg-wrapper > svg > .lievo-setrotation > .lievo-setsharp > .lievo-setflip > .lievo-main > .lievo-filledicon > g > g > line
+uploadocean.com##.header-right
+
+! 6/5/2019 https://www2.zippyshare.com
+www2.zippyshare.com##.center_ad
+
+! 6/6/2019 https://speed4up.net
+speed4up.net###div-gpt-ad-1523882324353-4
+speed4up.net###sharebuttons
+speed4up.net##.report
+||speed4up.net/images/logo-grey.png$image
+speed4up.net###div-gpt-ad-1523882324353-3
+speed4up.net###div-gpt-ad-1523882324353-1
+speed4up.net###Prem_days
+speed4up.net###language
+speed4up.net###_pn_1559832864530
+speed4up.net###div-gpt-ad-1523882324353-0
+speed4up.net###logo
+speed4up.net##div.sec.lft:nth-of-type(4)
+speed4up.net##.sharetabs
+||speed4up.net/images/ico_down.png$image
+speed4up.net##.bicon
+speed4up.net###lk15j
+speed4up.net###bxw854w
+
+! 6/6/2019 https://uploadrar.com
+uploadrar.com##[href="https://uploadrar.com/pages/ads.html"]
+uploadrar.com##[href="http://dmca.uploadrar.com"]
+
+! 6/6/2019 https://douploads.com
+douploads.com###switchColorMobile
+douploads.com##[href^="https://douploads.com/"]
+
+! 6/6/2019 https://dropapk.com
+||dropapk.com/ds1/img/bar_slow.gif$image
+
+! 6/6/2019 https://douploads.com
+douploads.com##.mt-5.col-md-8
+douploads.com##.text-primary
+douploads.com##.py-3.col-md-12
+douploads.com##div.mt-5.col-md-4:nth-of-type(3)
+
+! 6/6/2019 https://onhax.me
+onhax.me###top-promo-dload
+onhax.me###oh-suckitadb-promd-2
+onhax.me###bottom-promo-abdload
+onhax.me##.sd-sharing-enabled.sharedaddy
+
+! 6/6/2019 https://dailyuploads.net
+||dailyuploads.net//images_mega/header_bk.png$image
+||dailyuploads.net/images_mega/logo.png$image
+dailyuploads.net##div:nth-of-type(2) > center
+dailyuploads.net##form > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1)
+||dailyuploads.net/images_mega/map.png$image
+||dailyuploads.net//images_mega/bg.png$image
+
+! 6/6/2019 https://litepaste.com
+litepaste.com##.adsbygoogle
+
+! 7/1/2019 https://www.washingtonpost.com
+www.washingtonpost.com###c0QgJt2sMLBRtr
+www.washingtonpost.com##.bottomArticle.border-bottom-100-pct.border-bottom-airy.newsletter-unit.signup-box-rr
+www.washingtonpost.com##.twitter-link
+
+! 7/1/2019 https://www.google.com
+www.google.com##.ads-fr
+
+! 7/1/2019 https://www.nytimes.com
+www.nytimes.com##.css-u9lok6
+www.nytimes.com##div.css-uobsit:nth-of-type(2)
+www.nytimes.com###BottomAd
+www.nytimes.com##.g-ad.g-item
+www.nytimes.com##.css-d8bdto
+www.nytimes.com###newsletter-module
+www.nytimes.com##.e1x0szx60.css-1xz93ux.standard.shown.meter_default
+
+! 7/10/2019 https://upload.ac
+upload.ac##.visible-xs.text-center.boxa
+
+! 7/10/2019 https://uploadrar.com
+uploadrar.com##[href="https://getpczone.com"]
+
+! 7/10/2019 https://uploads4u.net
+uploads4u.net##.buyPremium.alert-success.alert
+uploads4u.net##[href^="http://deloplen.com/afu.php"]
+uploads4u.net##.report
+uploads4u.net##.sharetabs
+uploads4u.net##iframe
+uploads4u.net###eTNjPZKNz
+
+! 7/12/2019 https://uploadbyte.com
+||uploadbyte.com/xFileSharingTemplates/images/shadow.png$image
+||uploadbyte.com/xFileSharingTemplates/images/strip.png$image
+
+! 7/12/2019 https://uploadrar.com
+uploadrar.com##.col-md-offset-2.col-lg-4.col-md-4.col-sm-12.col-xs-12
+uploadrar.com###M438774ScriptRootC383502
+
+! 7/12/2019 https://uploads4u.net
+uploads4u.net##div.col-md-12:nth-of-type(4)
+uploads4u.net##div:nth-of-type(5)
+uploads4u.net##div:nth-of-type(6)
+uploads4u.net###EmU70QR1PPKV
+||secure.adnxs.com/getuid$image
+
+! 7/12/2019 https://www.apkmirror.com
+www.apkmirror.com##.share-icon.icon
+www.apkmirror.com###rssDropdown
+www.apkmirror.com###post-568569 > div.listWidget:nth-of-type(6)
+www.apkmirror.com##.ellipsisText.addpadding
+www.apkmirror.com##.widgetHeader
+
+! 7/12/2019 https://www.thejournalnj.com
+www.thejournalnj.com##.go-fund-link
+www.thejournalnj.com##.social-icons.bar-item.no-side-padding.col-sm-4.col-xs-12
+www.thejournalnj.com##.to-top-wrapper
+www.thejournalnj.com##.home-covers
+www.thejournalnj.com##.flex-center.seasonal-callout.col-xs-12
+www.thejournalnj.com##[href="https://www.thejournalnj.com/newsletter/"]
+www.thejournalnj.com##[href="https://www.thejournalnj.com/advertise-with-the-journal/"]
+www.thejournalnj.com##.social-icons
+www.thejournalnj.com##p
+www.thejournalnj.com##.site-ad.col-xs-12.ad-slider
+www.thejournalnj.com##.site-ad.col-xs-12.ad-slider-2
+www.thejournalnj.com##.social-widgets.col-xs-12
+www.thejournalnj.com##center > [href="https://www.thejournalnj.com/publications-monmouth-county/rumson-fair-haven-sea-bright/rumsonfair-haven-current-issue/"]
+www.thejournalnj.com##center
+
+! 7/12/2019 https://www.redbankgreen.com
+www.redbankgreen.com###rbg-header-ad
+www.redbankgreen.com###tribe-events-adv-list-widget-2
+||www.facebook.com/plugins/likebox.php$subdocument
+www.redbankgreen.com##.secondary-menu
+www.redbankgreen.com###menu-item-83270 > [href="https://www.redbankgreen.com/advertising-on-redbankgreen/"]
+www.redbankgreen.com##.header-weather
+www.redbankgreen.com##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like-box
+www.redbankgreen.com##.ssbp--theme-1.left.ssbp-wrap.ssba.ssba-classic-2
+
+! 7/12/2019 https://medium.com
+medium.com##.js-signUpButton.is-inSiteNavBar.u-accentColor--buttonNormal.button--withChrome.button--primary.button
+medium.com##.js-streamItem.streamItem--sequenceIndexCarousel.streamItem
+medium.com##.js-directEmailSignup.u-flexColumn.u-borderBox.u-marginAuto.u-maxWidth1032
+medium.com##.nl.nk.nj.ni.ac.nh.o
+
+! 7/12/2019 https://www.axios.com
+www.axios.com##.NewNavigation__timerIcon--3qnQ6 > use
+www.axios.com##.NewNavigation__timerIcon--3qnQ6
+www.axios.com##.gtm-timer-icon.NewNavigation__latestStoriesButton--2rr3W.NoStyleButton__root--1TOIe > .NewNavigation__toggler--jqU1Z.NoStyleButton__noFocus--1qnss
+||playlist.megaphone.fm/$subdocument
+www.axios.com##.Embed__root--xU4tk
+
+! 7/12/2019 https://www.foxnews.com
+www.foxnews.com##.watch.button
+www.foxnews.com##.promo-newsletter.promo
+www.foxnews.com##.ad-h-250.mobile.ad-container
+www.foxnews.com##.item-podcast.item
+www.foxnews.com##.social-icons
+www.foxnews.com##.section-nav.footer-upper > .inner
+www.foxnews.com##.section-nav.footer-upper
+
+! 7/12/2019 https://www.npr.org
+www.npr.org###tools-wrapper
+www.npr.org###player-react-mount
+www.npr.org###callout-end-of-story-mount
+www.npr.org##.share-tools--secondary.share-tools
+
+! 7/12/2019 https://www.pornhub.com
+www.pornhub.com##.clearfix.adContainer
+www.pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass
+www.pornhub.com##.premiumAdvertWrapper
+www.pornhub.com##.footerThumbs
+www.pornhub.com##.footerMainText.footer
+www.pornhub.com##.linkGroup
+www.pornhub.com##a.platformChange
+www.pornhub.com##.loggedOut.floatRight.mini.subscribeButton
+www.pornhub.com##.fanClubButtons.clearfix.targetContainer.categoryRow
+www.pornhub.com###downloadTansoDl
+www.pornhub.com###shareModal
+www.pornhub.com###playlistModal
+www.pornhub.com##[href="#p2v"]
+www.pornhub.com##.footer-title
+www.pornhub.com###androidAppBar
+www.pornhub.com##.removeAdLink.headerUpgradePremiumBtn
+www.pornhub.com###androidAppLink
+www.pornhub.com##[href="//www.pornhubapparel.com/"]
+www.pornhub.com##[href="//www.modelhub.com/"]
+www.pornhub.com##[href="//www.pornhub.com/sex/"]
+www.pornhub.com##[href="//www.pornhub.com/insights/"]
+www.pornhub.com##div.menuSection:nth-of-type(5) > h3
+www.pornhub.com##[href="/gifs"]
+www.pornhub.com##[href="/albums"]
+www.pornhub.com##.categoryIndexLink
+www.pornhub.com##.joinLinkWrapper
+www.pornhub.com##.moreCategories
+www.pornhub.com##.active.moreCategoriesTrigger
+www.pornhub.com###welcomeVideoMsg
+www.pornhub.com##.video109723642.videoWrapper.positionRelative
+www.pornhub.com##.join
+www.pornhub.com##.floatRight.subscribe.userButtons
+www.pornhub.com##.bar
+www.pornhub.com##.relatedChannels
+www.pornhub.com##div.viewMoreWrapper:nth-of-type(12)
+www.pornhub.com##div.content:nth-of-type(11)
+
+! 7/12/2019 https://menhdv.com
+menhdv.com##.-peep-out.chat
+menhdv.com##.coop-block
+menhdv.com##.chat
+menhdv.com##[href="https://twitter.com/MENHDV"]
+menhdv.com##[href="https://menhdv.com/chatarchive"]
+menhdv.com##[href="https://menhdv.com/contact/"]
+menhdv.com##.-big
+menhdv.com##.js-soc._clearfix.soc-share-buttons
+menhdv.com##.list > a.element:nth-of-type(7)
+menhdv.com##.js-soc.video-share-icons
+menhdv.com###comments-info
+menhdv.com##.-page.tags-list
+menhdv.com##.small-notice
+menhdv.com##h3.small-page-title:nth-of-type(4)
+menhdv.com##.models-list
+menhdv.com##h3.small-page-title:nth-of-type(3)
+
+! 7/13/2019 https://www.washingtonpost.com
+www.washingtonpost.com##.paywall > div:nth-of-type(2)
+www.washingtonpost.com##.paywall > div:nth-of-type(4)
+www.washingtonpost.com##.inline-video.inline-content
+www.washingtonpost.com##.paywall > div:nth-of-type(5)
+www.washingtonpost.com##.paywall > div:nth-of-type(6)
+www.washingtonpost.com##.paywall > div:nth-of-type(7)
+www.washingtonpost.com##.paywall > div:nth-of-type(8)
+www.washingtonpost.com##.paywall > div:nth-of-type(10)
+
+! 7/13/2019 https://www.vox.com
+www.vox.com##.main-social.c-social-buttons--popover.c-social-buttons
+www.vox.com##.m-ad__mobile_leaderboard.m-ad__dynamic_ad_unit.m-ad
+www.vox.com##.tab-bar-fixed.c-tab-bar
+www.vox.com##.m-ad__mobile_footer.m-ad__dynamic_ad_unit.m-ad
+
+! 7/13/2019 https://m.apkpure.com
+m.apkpure.com##.aegon-warp
+m.apkpure.com##.share-fixed
+m.apkpure.com##.follow-wrap
+m.apkpure.com##.t
+m.apkpure.com##[href^="https://iphone.apkpure.com/"] > .menu-layer
+
+! 7/13/2019 https://nypost.com
+nypost.com##.flag-region
+
+! 7/14/2019 https://www.politico.com
+www.politico.com##.cookie-modal.js-cookie-modal
+www.politico.com##.js-sign-up.sign-up
+www.politico.com##.ad.interrupt-item
+www.politico.com##.story-continued
+www.politico.com##.db.cl-l.story-related
+www.politico.com##.share-twitter > [href^="http://api.addthis.com/oexchange/0.8/forward/twitter/offer"]
+www.politico.com##.share-facebook
+www.politico.com##.sticky-content.orient-vertical.user-tools
+www.politico.com##.fixed-top.super
+www.politico.com##div.story-share
+www.politico.com##.fs-i.summary > p
+www.politico.com##.js-tealium-tracking
+www.politico.com##.footer__group--links.footer__group
+
+! 7/14/2019 https://www.barclayscenter.com
+www.barclayscenter.com##.weather-widget
+www.barclayscenter.com###banner_35766
+www.barclayscenter.com###full-width-slider-featured
+www.barclayscenter.com##.entry-ad-serve.entry
+www.barclayscenter.com##.m-homepage-widgets-container
+www.barclayscenter.com##.sponsors
+www.barclayscenter.com###INDmenu-btn
+www.barclayscenter.com##.column.m-social-icons-footer
+
+! 7/14/2019 https://www.google.com
+www.google.com###asic > svg
+www.google.com###footer
+www.google.com##a.rYDfvb:nth-of-type(9)
+
+! 7/15/2019 https://www.uploadship.com
+www.uploadship.com##.percent-33
+www.uploadship.com##.percent-100
+
+! 7/15/2019 https://speed4up.net
+speed4up.net##[href^="https://get1trightn0w.com/mms/"]
+
+! 7/15/2019 https://onhax.me
+onhax.me###homeviewtopcats
+onhax.me###ft_viewer
+onhax.me##.pfetchbtn
+
+! 7/15/2019 https://www.theatlantic.com
+www.theatlantic.com###hp-daily-idea
+www.theatlantic.com##.btn--facebook.btn--social.btn
+www.theatlantic.com##.btn--twitter.btn--social.btn
+www.theatlantic.com##.js-inject-promo.injector-promo-wrapper--article-top
+
+! 7/15/2019 https://www.wsj.com
+www.wsj.com###AD_MOBILE2
+www.wsj.com##.WSJTheme--margin-bottom--2ieUi3R4.WSJTheme--padding-bottom--1DZtAYLv.WSJTheme--padding-top--10zFJay_.WSJTheme--adWrapper--2v6EA8gi
+www.wsj.com##.US-share-icons--dark-arrow-share-icon--2e9dNNza.WSJTheme--dark-arrow-share-icon--YefIESTk.WSJTheme--share-icon--1kLhwZOf
+www.wsj.com##.style--social-icons--uFSPV-y_
+www.wsj.com##.style--store-badges--qSgSlZZL
+www.wsj.com##.style--back-2-top--1NkVO9Mj
+www.wsj.com##.inline.article__inset--wrap.article__inset--type-InsetNewsletterSignup.article__inset.scope-web\|mobileapps.type-InsetNewsletterSignup.media-object
+www.wsj.com###main
+www.wsj.com###conversation-closed-message
+www.wsj.com##.style__social-icons_uFSPV-y_wEAwxyDyQwwuX
+www.wsj.com##.style__store-badges_qSgSlZZL_M7yELG3MQ5h6
+www.wsj.com##.article__inset--header.article__inset--type-InsetMediaVideo.article__inset.scope-web\|mobileapps.header.type-InsetMediaVideo.media-object
+www.wsj.com###cx-join-the-conversation
+www.wsj.com##.style__back-2-top_1NkVO9Mj76EdCV4ocxTwrw
+www.wsj.com##.WSJTheme__border-bottom_2FDWWp3tbJcb7VVVi7mv4z.WSJTheme__article-tools-list_2iihrxfBSkqQYYOAN0J-98 > .WSJTheme__share-tool_s55WJmd6QByDOCh6G5aGA.WSJTheme__tool_d7-0lZbdKxib8fS9OSHB
+www.wsj.com##.WSJTheme__center_3Dp1y_d4Uesszdv5yK-K0g > .WSJTheme__article-tools-menu_2V5J9GwZagnmlbQJBnAh2h > .WSJTheme__article-tools-list_2iihrxfBSkqQYYOAN0J-98 > .WSJTheme__share-tool_s55WJmd6QByDOCh6G5aGA.WSJTheme__tool_d7-0lZbdKxib8fS9OSHB
+www.wsj.com##.article__inset--wrap.article__inset--type-InsetRichText.article__inset.scope-web\|mobileapps.wrap.type-InsetRichText.media-object
+||www.wsj.com/newsletters/182?embed=1&mod=newsletter_from_article$subdocument
+www.wsj.com##.inline.article__inset--wrap.article__inset--type-InsetNewsletterSignup.article__inset.scope-web.type-InsetNewsletterSignup.media-object
+www.wsj.com##.ad-span.wsj-body-ad
+
+! 7/15/2019 https://m.youtube.com
+m.youtube.com##button.multi-page-menu-system-link
+
+! 7/15/2019 https://m.facebook.com
+m.facebook.com###header-notices
+m.facebook.com###u_ps_0_0_3
+m.facebook.com###h6y2f5-0\:10
+m.facebook.com##._7apl._52we._7om2
+m.facebook.com###login_top_banner
+
+! 7/17/2019 https://www.pewresearch.org
+www.pewresearch.org##.column.wide.six.follow-us
+
+! 7/23/2019 https://www.tapinto.net
+www.tapinto.net##.height-initial.social-links
+www.tapinto.net##.second.banner-ad.ad
+www.tapinto.net###tap_mobile_leaderboard_2
+www.tapinto.net##div.ads-horizontal.smaller_container_ad.container_ad
+www.tapinto.net###news-letter-float-layout
+www.tapinto.net###tap_bullseye_4
+www.tapinto.net##.fb_iframe_widget_fluid.fb_iframe_widget.fb-page
+www.tapinto.net###footer-notes
+www.tapinto.net##.mobile-show.left
+
+! 7/24/2019 https://www.cnn.com
+www.cnn.com##.bJEKPs.footerstyles__SocialWrap-sc-1gdpf6x-2.Flex-sc-1sqrs56-0
+www.cnn.com###footer-wrap
+www.cnn.com##.kioEDT.live-tv-button__LiveTvLink-sc-1ruc7gz-0.Link-sc-1hkqz5e-0.Text-sc-1amvtpj-0-a
+www.cnn.com##.cajTFO.social-follow-barstyles__SocialBarContainer-er6pmh-0.Flex-sc-1sqrs56-0
+
+! 7/28/2019 https://www-m.cnn.com
+www-m.cnn.com###social-share
+www-m.cnn.com##.fad1e0c2
+www-m.cnn.com##div._9db439e9.b5d1cb4d
+www-m.cnn.com##.PartnerZone
+www-m.cnn.com##.socialContainer.styles_socialContainer__12Ywp
+www-m.cnn.com##.live_tv_link
+
+! 7/28/2019 https://www.reddit.com
+www.reddit.com##.active.XPromoPopup
+www.reddit.com##.mSmall.XPromoAdFeed
+www.reddit.com##.TopButton
+www.reddit.com##.xPromoAppStoreFooter
+
+! 7/28/2019 https://tinder.com
+||tinder.com/static/build/477837e3452d4dd877a3110532abdc83.png$image
+tinder.com##.CenterAlign.Bg\(\$sw-gradient-1\).Expand
+tinder.com##.C\(\$c-secondary\).Bgc\(\#fff\).B\(0\).Bxsh\(\$bxsh-4-way-spread\).Z\(90210\).End\(0\).Start\(0\).Pos\(f\)
+tinder.com##.Bgc\(\#000\.68\).CenterAlign.StretchedBox.modalManager
+tinder.com##.M\(a\).Pos\(a\).CenterAlign.W\(100\%\).B\(24px\).Fld\(c\)
+tinder.com##.C\(\$c-secondary\)--ml.Fz\(\$s\)--s.Fz\(\$m\).Maw\(80\%\).Mt\(20px\).Mx\(a\)--s.Ta\(c\)--s
+tinder.com##.D\(f\).H\(44px\).Z\(1\).Translate\(-50\%\,50\%\).B\(0\).Start\(50\%\).Pos\(a\).W\(100\%\)
+
+! 7/28/2019 https://www.squirt.org
+www.squirt.org##.shownToggle.anchored-toast.cookie
+www.squirt.org##.social-icons
+www.squirt.org##.grid-whole.image-blocks
+
+! 7/28/2019 https://www.xvideos.com
+www.xvideos.com###mobile-slogan
+
+! 7/28/2019 https://www.omegle.com
+www.omegle.com###feedback
+www.omegle.com###topterms
+
+! 7/29/2019 https://douploads.net
+douploads.net###gdpr-cookie-notice
+douploads.net###news_last
+douploads.net##[href="https://www.facebook.com/DoUploads"]blockpage
+douploads.net##[href="https://twitter.com/SadeemServices"]
+douploads.net##[href="https://www.pinterest.com/SadeemServices/"]
+douploads.net##[href="https://www.instagram.com/DoUploads/"]
+douploads.net##[href="https://www.youtube.com/channel/UCzEMFzqAEb9XAAGEkI9U1KQ"]
+douploads.net##[href="https://sadeemservices.co/"]
+douploads.net##.adsbygoogle
+douploads.net##.mb-4.m-0.sharetabs
+douploads.net##.text-center.mt-5
+douploads.net###switchColorMobile > .fa-lightbulb.far
+douploads.net##.footerMenu
+
+! 7/29/2019 https://uploadbyte.com
+uploadbyte.com##.container1
+||uploadbyte.com/xFileSharingTemplates/images/shadow.png$image
+||uploadbyte.com/xFileSharingTemplates/images/strip.png$image
+
+! 7/29/2019 https://forum.mobilism.org
+forum.mobilism.org##.social-top
+
+! 7/29/2019 http://myupload.ru
+myupload.ru##.responsiveAccountBenefitWrapper
+myupload.ru##.footerMultiLanguageSwitcherWrapper
+myupload.ru##h2
+myupload.ru##.metaRedirectWrapperTopAds
+myupload.ru##.metaRedirectWrapperBottomAds
+
+! 7/29/2019 https://adguard.com
+adguard.com##.sticky-bar--fixed.sticky-bar
+adguard.com##.browser-support
+adguard.com##.adguard-users__in
+adguard.com##.sticky-bar
+adguard.com##.community__social
+adguard.com##.community__section.article__section > .md__paragraph
+adguard.com##.community__title.article__title-inner > .md__paragraph
+adguard.com##.purchase__currency
+
+! 7/29/2019 https://adblockplus.org
+adblockplus.org##.cookieprompt.cookie
+adblockplus.org###media-section
+adblockplus.org###social-list
+
+! 7/29/2019 https://www.nbcnews.com
+www.nbcnews.com##.zva-print.gdo.anq.mgx.vvb.deo.wkq.vrm
+www.nbcnews.com###google_ads_iframe_1
+www.nbcnews.com##.i-amphtml-layout.i-amphtml-layout-size-defined.i-amphtml-layout-fixed.i-amphtml-element
+www.nbcnews.com##.js-global-nav-insert.global-insert
+www.nbcnews.com##.global
+
+! 7/30/2019 https://www.apkmirror.com
+www.apkmirror.com##.tab-button-positioning-left
+
+! 7/30/2019 https://m.apkpure.com
+m.apkpure.com##.adsbygoogle
+m.apkpure.com##.share-wrap
+m.apkpure.com##.details-safe
+m.apkpure.com##div.ad-box
+m.apkpure.com##.tempWrap
+m.apkpure.com##.bd
+m.apkpure.com##.bg
+
+! 7/30/2019 https://vanced.app
+vanced.app###cookieConsent
+vanced.app##.alert-warning.alert
+
+! 7/30/2019 https://youtube-vanced.en.uptodown.com
+youtube-vanced.en.uptodown.com##.safe-install
+youtube-vanced.en.uptodown.com###content_ad
+youtube-vanced.en.uptodown.com##.bar-buttons
+youtube-vanced.en.uptodown.com##.rate.jsNewComment
+
+! 7/30/2019 https://en.uptodown.com
+en.uptodown.com##.advertisement
+en.uptodown.com##.social.content
+
+! 7/30/2019 https://chrome.en.uptodown.com
+chrome.en.uptodown.com##.safe-install
+
+! 7/30/2019 https://www.google.com
+www.google.com##[href^="/intl/en_us/googlefinance/disclaimer/"]
+www.google.com##.NCb4Hf.Oe4cyf
+www.google.com##.kno-ftr
+www.google.com##.Lj180d
+www.google.com###swml
+www.google.com##.QzoJOb.ZseVEf
+
+! 7/30/2019 https://www.xtube.com
+www.xtube.com##.mobileAdNav
+www.xtube.com##.notice.whoIsOnline.clearfix > span
+www.xtube.com###nsfwWarningWrapper
+www.xtube.com###tj_footer
+www.xtube.com##.tJunkyText
+www.xtube.com##.removeAds
+www.xtube.com##.ujbf8hlZW8DTpdFW4aoF
+www.xtube.com##.socialIconsPhoneCenter.socialIcons.col-xs-24
+www.xtube.com##.footerButtonsWrapper
+www.xtube.com##.collapseBtn.iconFont.btn
+www.xtube.com##.chatappCTALink
+www.xtube.com##.changeViewBtn
+www.xtube.com###toggleButton
+www.xtube.com###downloadVideoBtn
+www.xtube.com##.icon_message
+www.xtube.com##.icon_flag
+www.xtube.com##.cntPanel.myPlaylist
+
+! 7/30/2019 https://www.pornhub.com
+www.pornhub.com###adSpot
+www.pornhub.com##.commentLogMessage
+www.pornhub.com##.playlistsTitle
+
+! 7/30/2019 https://www.amazon.com
+www.amazon.com###nav-global-location-slot
+www.amazon.com###nav-subnav-container
+www.amazon.com##.gwm-Card--removeDescendentMargin
+www.amazon.com###gwm-Deck-cf
+www.amazon.com##.pd_rd_w-OJuJT.pd_rd_r-RCGPS3R19XB2JXK35F8M.pd_rd_wg-l86j1.csm-widget-id-mobile-gateway-btf_9cd62a24-e89e-4434-88fe-e1db29d516e0.csm-widget-type-billboard-card.csm-placement-id-33c96710-b14c-4001-8ca3-aa9a461c680d.gwm-widget.celwidget > .gwm-BillboardCard.gwm-Card > .gwm-BillboardCard--cropped
+www.amazon.com##.gwm-BillboardCard--cropped
+www.amazon.com##.gwm-MultiCategoryCard-divider
+www.amazon.com###nav-ftr-gototop
+www.amazon.com###dpx-anywhere-tell-a-friend_feature_div
+www.amazon.com##div#dpx-anywhere-sponsored-products-detail_feature_div.t-prnt.t-full
+www.amazon.com###sims-mobile-consolidated-2
+www.amazon.com##div.aw-campaigns
+www.amazon.com###vse-rel-videos-carousel
+www.amazon.com##.cr-skyfall-feedback-section
+www.amazon.com###sims-mobile-consolidated-3
+www.amazon.com##div.a-section:nth-of-type(97)
+www.amazon.com###nav-ftr-links
+www.amazon.com###detailILM_feature_div
+www.amazon.com###contextualIngressPt
+www.amazon.com###HLCXComparisonWidget_feature_div
+www.amazon.com##.nav-ftr-horiz > li.nav-li:nth-of-type(3) > .nav-a
+www.amazon.com##.gwm-GridTopContainer
+
+! 7/30/2019 https://www.nytimes.com
+www.nytimes.com##.e1x0szx60.css-16r57cp.standard.shown.meter_default
+www.nytimes.com##div.StoryBodyCompanionColumn.css-1fanzo5:nth-of-type(1) > .css-53u6y8 > p.evys1bk0.css-exrw3m:nth-of-type(1)
+www.nytimes.com##.epkadsg3.css-1bmqgre
+
+! 7/30/2019 https://www.washingtonpost.com
+www.washingtonpost.com###cRCUSM1IcNE4xr
+www.washingtonpost.com###c0v6ZwiIcNE4xr
+www.washingtonpost.com###i_userMessages
+www.washingtonpost.com###f0vWwErFOc0otr
+www.washingtonpost.com##.paywall > div:nth-of-type(3)
+www.washingtonpost.com###f02NoFzFOc0otr
+www.washingtonpost.com###f0nnsslFOc0otr
+
+! 7/30/2019 https://www.wsj.com
+www.wsj.com##[href="https://subscribe.wsj.com/hpheaderlink"]
+www.wsj.com##.style--clearfix--2x_TXhZ8.style--login-buttons--2AlXz2kN > [href^="https://accounts.wsj.com/login"]
+www.wsj.com##.style--footer-login--2Ns6PdvC
+
+! 7/30/2019 https://mixloads.com
+mixloads.com##div.text-center.col-md-4:nth-of-type(2) > .download_method
+mixloads.com##.py-4.bg-white.features__section
+mixloads.com##.bg-white.py-5.payment_methods > .container
+mixloads.com##.logo
+mixloads.com##.bg-white.py-5.payment_methods
+mixloads.com##footer > .py-5.container
+mixloads.com##.col-md-8
+
+! 7/30/2019 https://accounts.google.com
+accounts.google.com##.logo-strip
+accounts.google.com##.tagline
+
+! 7/30/2019 https://about.google
+about.google##.social
+about.google##.cap
+about.google##[href^="https://support.google.com"]
+about.google##.bottom-links
+
+! 7/30/2019 https://www.google.com
+www.google.com##.aajZCb
+www.google.com##.gLSAk.bwlohc.e7RZX
+www.google.com##g-popup
+www.google.com##agsa-home-screen-icon-banner
+www.google.com##.eTjmHf > span
+www.google.com##.eTjmHf
+
+! 7/30/2019 https://tinder.com
+tinder.com##.Animdel\(2s\).Bgc\(\$c-beacon-pink\).Bdc\(\$c-beacon-pink\).Animtf\(l\).Animic\(i\).Animdur\(4s\).Sq\(80px\).Start\(10px\).T\(10px\).Bdrs\(50\%\).Bd.Pos\(a\).beacon__circle
+tinder.com##span.Bgc\(\$c-beacon-pink\).Bdc\(\$c-beacon-pink\).Animtf\(l\).Animic\(i\).Animdur\(4s\).Sq\(80px\).Start\(10px\).T\(10px\).Bdrs\(50\%\).Bd.Pos\(a\).beacon__circle:nth-of-type(1)
+tinder.com##.Bdbc\(\$c-divider\).BdB.Py\(12px\).Px\(24px\).Fw\(\$bold\).Fz\(\$m\)--s.Fz\(\$ml\)--ml
+
+! 7/30/2019 https://m.youtube.com
+m.youtube.com##.promoted-video-byline-container
+
+! 7/30/2019 https://mobile.twitter.com
+mobile.twitter.com##.r-1slz7xr.r-1udh08x.r-1777fci.r-1xfps3t.css-1dbjc4n
+mobile.twitter.com##.r-1bxhq7s.css-1dbjc4n
+mobile.twitter.com##div.r-18u37iz.r-1awozwy.css-1dbjc4n:nth-of-type(7)
+mobile.twitter.com##div.r-18u37iz.r-1awozwy.css-1dbjc4n:nth-of-type(9)
+mobile.twitter.com##div.r-18u37iz.r-1awozwy.css-1dbjc4n:nth-of-type(8)
+mobile.twitter.com##div:nth-of-type(7) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(11) > .r-1adg3ll.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(9) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(10) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(8) > .r-1adg3ll.r-qklmqi.r-my5ep6.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(5) > .r-1adg3ll.css-1dbjc4n
+mobile.twitter.com##div:nth-of-type(12) > .r-1adg3ll.css-1dbjc4n > .r-k5y9r7.r-e84r5y.css-1dbjc4n
+
+! 8/2/2019 https://foreignpolicy.com
+foreignpolicy.com##.FP-mobile-ad_enabled
+foreignpolicy.com##.sticky_content
+foreignpolicy.com##.sidebar-big-box-ad
+foreignpolicy.com##.margin-top-mobile.internal-ad-region-1
+foreignpolicy.com##.home-ad-region-1
+foreignpolicy.com##.podcast-internal-ad
+foreignpolicy.com##.internal-ad-region-2
+foreignpolicy.com##.follow-fp
+foreignpolicy.com##.home-ad-region-2
+foreignpolicy.com##.powered-by-wpcom--parent
+foreignpolicy.com##.social
+
+! 8/2/2019 https://www.tiktok.com
+www.tiktok.com##.smart-bar
+www.tiktok.com##.__simulation_app_tools_share_icon
+www.tiktok.com##.__simulation_app_tools_share_title
+www.tiktok.com##.__simulation_app_tools_tip
+www.tiktok.com##._simulation_app_button_
+
+! 8/2/2019 https://m.tiktok.com
+m.tiktok.com##.top-banner
+m.tiktok.com##.bottom-banner
+
+! 8/2/2019 https://play.google.com
+play.google.com##.X1PzMe
+play.google.com##wishlist-add
+
+! 8/2/2019 https://www.dailymail.co.uk
+www.dailymail.co.uk###smartBanner
+www.dailymail.co.uk##.social
+www.dailymail.co.uk##.hp-swipe
+www.dailymail.co.uk###puff_ad_1
+www.dailymail.co.uk###puff_ad_2
+www.dailymail.co.uk###puff_ad_3
+www.dailymail.co.uk###puff_ad_5
+www.dailymail.co.uk##.sharing-buttons
+www.dailymail.co.uk##.see-more
+www.dailymail.co.uk###next-stories
+www.dailymail.co.uk##h3
+www.dailymail.co.uk##.socialContainer-1Yly1
+www.dailymail.co.uk##.nav-bts
+www.dailymail.co.uk###most-watched-videos-lazy-container
+www.dailymail.co.uk##.taboola
+
+! 8/2/2019 https://www.google.com
+www.google.com###yt-extension
+
+! 8/2/2019 https://www.hollywoodreporter.com
+www.hollywoodreporter.com##.social-share
+www.hollywoodreporter.com##.ad-container
+www.hollywoodreporter.com##.email-subscribe__content-holder.email-subscribe
+www.hollywoodreporter.com###well_1
+www.hollywoodreporter.com###well_2
+www.hollywoodreporter.com##div.container:nth-of-type(7)
+www.hollywoodreporter.com##div.container:nth-of-type(6)
+www.hollywoodreporter.com##.column.follow
+www.hollywoodreporter.com##.column.partner
+
+! 8/2/2019 https://www.tmz.com
+www.tmz.com###smartbanner
+www.tmz.com##.masthead-tip
+www.tmz.com###ad-blogroll1
+www.tmz.com###ad-adhesion
+www.tmz.com###ad-blogroll3
+www.tmz.com###ad-blogroll5
+www.tmz.com###ad-blogroll7
+www.tmz.com##.gallery-smartphone__social
+www.tmz.com##.gallery-smartphone__end-card-social
+
+! 8/2/2019 https://www.psychologytoday.com
+www.psychologytoday.com##.td_callout.mt-2.pb-0.no-gutters.align-items-inherit.row
+www.psychologytoday.com##.node.magazine-issues-block
+www.psychologytoday.com###block-pt-td-fat-cities
+www.psychologytoday.com##.footer_nav__content__magazines-links-copyright
+www.psychologytoday.com##.footer_nav__social_media
+www.psychologytoday.com##.td_fat_subheader
+www.psychologytoday.com###pt-social-media
+www.psychologytoday.com##.advertisement-label
+www.psychologytoday.com##.pt-social-media-bottom
+
+! 8/3/2019 https://ratemydick.net
+ratemydick.net###top-ad
+ratemydick.net###main > div.row:nth-of-type(1)
+ratemydick.net###colophon
+ratemydick.net###bottom-ad
+ratemydick.net###nav_menu-3
+
+! 8/5/2019 https://www.google.com
+www.google.com##.duf-h.adgvqc
+www.google.com###_8UBIXanCFNW5tAaPm5XoBg56
+
+! 8/5/2019 https://en.m.wikipedia.org
+en.m.wikipedia.org###language-selector
+en.m.wikipedia.org###page-actions
+en.m.wikipedia.org##.license
+en.m.wikipedia.org##.hlist-separated.hlist.footer-places
+
+! 8/5/2019 https://photos.citybeat.com
+photos.citybeat.com##.bottom-mobile
+photos.citybeat.com###social_browser
+photos.citybeat.com##.tags
+photos.citybeat.com##.gallery-teasers
+photos.citybeat.com##.fa-instagram.fa
+photos.citybeat.com##.fa-twitter.fa
+photos.citybeat.com##.fa-facebook.fa
+||photos.citybeat.com/wp-content/plugins/photo-slider-new/images/bg-ad.png$image
+photos.citybeat.com###div-gpt-ad-cin_300x250-mobile-slideshow
+photos.citybeat.com###div-gpt-ad-cin_300x250-mobile-slideshow_container
+photos.citybeat.com##.medRectangle
+
+! 8/5/2019 https://www.google.com
+www.google.com##[href="https://www.lyricfind.com/"]
+www.google.com##.j04ED
+www.google.com##.ndEm3b.zbA8Me
+
+! 8/5/2019 https://www.rollingstone.com
+www.rollingstone.com##.c-social-bar--wide.c-social-bar
+www.rollingstone.com##.ad-text.pmc-adm-goog-pub-div
+www.rollingstone.com##.c-post-actions
+www.rollingstone.com##.spotim-recirculation
+www.rollingstone.com###rs-ticketing
+www.rollingstone.com##.c-newswire
+www.rollingstone.com##[href="/subscribe-more/"]
+www.rollingstone.com##div.l-blog__item:nth-of-type(3)
+www.rollingstone.com##.l-section--no-separator.l-section
+www.rollingstone.com##nav.l-footer__menu:nth-of-type(3)
+www.rollingstone.com##.is-expanded.c-page-nav--1-column.c-page-nav--cta.c-page-nav--footer.c-page-nav
+www.rollingstone.com##.c-pmc-footer--mobile.l-footer__wrap
+www.rollingstone.com##.c-pmc-footer__legal
+www.rollingstone.com##[href="https://www.pmc.com"]
+www.rollingstone.com##.l-header__block--right.l-header__block > .t-bold.c-cover
+www.rollingstone.com##.l-section--dark
+
+! 8/5/2019 https://thehill.com
+thehill.com##.mtm.subscribe-form-l
+thehill.com##.social-list
+thehill.com##[href="/hilltv"]
+thehill.com##.menu-link-image.leaf.last.first
+thehill.com###block-menu-menu-mobile-signup
+
+! 8/7/2019 https://giphy.com
+giphy.com##.OpenInAppContainer-sc-ltk9nl
+||media.giphy.com/headers/2019-08-02-52-1564761138/TIKTOK_BANNER_MOBILE.gif$image
+giphy.com##.BannerContainer-sc-qsndiu
+
+! 8/7/2019 https://www.google.com
+www.google.com##[href^="https://posts.google.com/claim/"]
+www.google.com##.wm7Hn
+
+! 8/7/2019 https://www.nbcnews.com
+www.nbcnews.com##.marqueeBreaking
+www.nbcnews.com##.share-ul
+www.nbcnews.com##.share-inner
+www.nbcnews.com##.share-list
+
+! 8/7/2019 https://m.imdb.com
+m.imdb.com###upsell-banner
+m.imdb.com##.ab_zergnet
+m.imdb.com##.imdb-footer__open-app-container
+m.imdb.com##.imdb-footer__social
+m.imdb.com##.imdb-header-nav-drawer__pro-link
+m.imdb.com###upsell-interstitial
+m.imdb.com###mobile_ptp_hero_wrapper
+m.imdb.com###pro_main_title_link
+m.imdb.com##.ab_widget
+m.imdb.com##.share-checkin-heading
+m.imdb.com###pro_cast_title_link
+m.imdb.com###share-checkin
+m.imdb.com##div.col-xs-12:nth-of-type(4) > section > .retina.btn-full
+m.imdb.com##div.imdb-footer__offsite-links:nth-of-type(4) > .ipc-inline-list > .ipc-inline-list__item > .ipc-link--inherit-color.ipc-link--touch-target.ipc-link--baseAlt.ipc-link--launch.ipc-link
+m.imdb.com##.buybox
+
+! 8/7/2019 https://www.google.com
+www.google.com##div:nth-of-type(2) > a.Fx4vi:nth-of-type(1)
+
+! 8/7/2019 https://www.bing.com
+www.bing.com##.card_body > .row
+www.bing.com###hc_opalinst
+www.bing.com###hc_followus
+www.bing.com###hc_bingfun
+www.bing.com##.mscopes.hideTitle
+
+! 8/7/2019 https://thehill.com
+thehill.com###google_ads_iframe_2
+thehill.com##.top-mobile-content
+thehill.com##section.share-box
+thehill.com##.inside-ad
+thehill.com##.block-ad.container
+
+! 8/8/2019 https://thehill.com
+thehill.com###block-thehill-blocks-amp-outbrain
+thehill.com##.misc-banner
+thehill.com##.image-credits
+thehill.com##[href="/contact/subscriptions"]
+thehill.com##[href="/contact/advertise"]
+
+! 8/8/2019 https://www.1001fonts.com
+www.1001fonts.com##.cc-window
+www.1001fonts.com###adzoneTop
+www.1001fonts.com##.like
+www.1001fonts.com##.lc
+www.1001fonts.com###adzoneBottom
+www.1001fonts.com###followMe
+www.1001fonts.com##.share
+www.1001fonts.com##.donate
+www.1001fonts.com##.license
+www.1001fonts.com###tabs
+||themes.static.1001fonts.net/netefx/img/*.png$image
+www.1001fonts.com##.edit
+
+! 8/8/2019 https://fonts.google.com
+fonts.google.com###feedback-button
+
+! 8/8/2019 https://www.instagram.com
+www.instagram.com##._1-msl.VhasA.ABLKx.MFkQJ
+||www.instagram.com/static/images/appstore-install-badges/badge_android_english-en.png/e9cd846dc748.png$image
+www.instagram.com##button.HoLwm.aOOlW:nth-of-type(4)
+www.instagram.com##button.HoLwm.aOOlW:nth-of-type(5)
+www.instagram.com##.jdtwu
+www.instagram.com##.l9Ww0
+www.instagram.com##.m4t9r
+www.instagram.com##._1OSdk.mLCHD
+||www.instagram.com/static/bundles/metro/sprite_core_2x_6ba81dcece9b.png/6ba81dcece9b.png$image
+www.instagram.com##.fm1AK.aGBdT._4EzTm.YBx95.rBNOH.Igw0E
+||www.instagram.com/static/bundles/metro/sprite_core_2x_6ba81dcece9b.png/6ba81dcece9b.png$image
+www.instagram.com##.coreSpriteStoryCreationAlt
+
+! 8/8/2019 https://www.prankdial.com
+www.prankdial.com##.interstitial.fullscreen.modal-background
+www.prankdial.com##.topBanner
+www.prankdial.com##.ads
+www.prankdial.com##.advert
+www.prankdial.com##.social
+www.prankdial.com##sidebar > div.container:nth-of-type(1)
+
+! 8/8/2019 https://www.google.com
+www.google.com##.fDqwl
+www.google.com##.yKbIbb
+www.google.com##.XeEBj
+www.google.com##.h04bR
+www.google.com##.a3Wc3
+www.google.com##.MTPS0e
+www.google.com##.IA8gLe
+www.google.com##.RScZKc
+
+! 8/8/2019 https://townhall.com
+townhall.com##.next-article
+townhall.com##.ad
+townhall.com##.share-box
+townhall.com##.i-amphtml-layout.i-amphtml-sticky-ad-layout.i-amphtml-layout-nodisplay.i-amphtml-element
+||www.lightboxcdn.com/static/amp_iframe.html$subdocument
+||d-2255818473220808971.ampproject.net/1907231757120/frame.html$subdocument
+townhall.com##.email
+townhall.com##i-amphtml-sizer
+
+! 8/8/2019 https://www.buzzfeednews.com
+www.buzzfeednews.com###mod-action-bar-3
+www.buzzfeednews.com###mod-support-cta-1
+www.buzzfeednews.com##.bfp-newsletter-signup
+
+! 8/8/2019 https://www.google.com
+www.google.com###tvcap
+
+! 8/8/2019 https://www.raspberrypi.org
+www.raspberrypi.org##.c-footer-social
+www.raspberrypi.org##.o-footer__newsletter
+
+! 8/8/2019 http://www.4chan.org
+www.4chan.org###announce
+www.4chan.org###site-stats
+www.4chan.org##[href="/advertise"]
+www.4chan.org##[href="/pass"]
+||s.4cdn.org/image/fp/fade.png$image
+
+! 8/8/2019 http://boards.4chan.org
+boards.4chan.org##.adg-rects
+boards.4chan.org##.center.middlead
+boards.4chan.org##body > hr:nth-of-type(3)
+boards.4chan.org###disable-mobile
+
+! 8/8/2019 https://p.4chan.org
+p.4chan.org##ul.MuiTypography-body1.jss282.MuiTypography-root:nth-of-type(3)
+p.4chan.org##h6.MuiTypography-h6.MuiTypography-root:nth-of-type(3)
+p.4chan.org##ul.MuiTypography-body1.jss282.MuiTypography-root:nth-of-type(2) > li:nth-of-type(2)
+
+! 8/8/2019 https://www.liveleak.com
+www.liveleak.com##.cc-color-override--1254661338.cc-bottom.cc-theme-edgeless.cc-type-info.cc-floating.cc-window
+
+! 8/8/2019 https://www.businessinsider.com
+www.businessinsider.com##.share-wrapper
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1d6ae1\.22713860
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1d8c10\.22775134
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1d9e53\.79935761
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1daf19\.29666110
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1dbf87\.89283203
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1dcfd5\.20144634
+www.businessinsider.com###gpt-post-defense-mobile_in_post_ad-mobile-web-5d4c03ed1de028\.47477525
+www.businessinsider.com##.app-badge-ios
+www.businessinsider.com##.app-badge-google
+www.businessinsider.com##.social
+www.businessinsider.com##.brands
+
+! 8/8/2019 https://www.theverge.com
+www.theverge.com##.adblock-whitelist-messaging__wrapper
+www.theverge.com##.adblock-whitelist-messaging__article-wrapper
+www.theverge.com##.c-social-buttons__item
+www.theverge.com##.c-tab-bar
+
+! 8/8/2019 https://www.vox.com
+www.vox.com##.adblock-whitelist-messaging__wrapper
+www.vox.com##.c-podcast-player
+www.vox.com##.c-entry-box--compact--package_landing.c-entry-box--compact--article.c-entry-box--compact
+www.vox.com##.c-social-buttons
+
+! 8/9/2019 https://trumpgrets.tumblr.com
+trumpgrets.tumblr.com##.tmblr-iframe--app-cta-button
+trumpgrets.tumblr.com##.iframe-controls--phone-mobile.tmblr-iframe--loaded.tmblr-iframe--unified-controls.tmblr-iframe
+
+! 8/9/2019 https://www.google.com
+www.google.com##.ZseVEf
+
+! 8/9/2019 https://www.urbandictionary.com
+www.urbandictionary.com##.cc-color-override--1419881086.cc-bottom.cc-theme-classic.cc-type-info.cc-floating.cc-window
+www.urbandictionary.com##.mug-ad
+www.urbandictionary.com##.share
+www.urbandictionary.com##.ad-panel
+www.urbandictionary.com##.subscribe-panel
+
+! 8/9/2019 https://genius.com
+genius.com##android-banner
+genius.com##dfp-ad
+
+! 8/9/2019 https://vine.co
+vine.co##.banner
+
+! 8/9/2019 https://temp-mail.org
+temp-mail.org##.btn-appstore
+
+! 8/9/2019 https://www.nbcnewyork.com
+www.nbcnewyork.com###appIntercept
+
+! 8/9/2019 https://www.njcopshot.com
+www.njcopshot.com###toTop
+
+! 8/9/2019 https://abc7ny.com
+abc7ny.com##[href="/weather/"]
+abc7ny.com##.social
+abc7ny.com##.frame-social
+abc7ny.com##.inner.cnnvan
+abc7ny.com##.outbrainArticle
+
+! 8/9/2019 https://translate.google.com
+translate.google.com##.ad-panel
+translate.google.com##.feedback-link
+
+! 8/9/2019 https://www.rockstargames.com
+www.rockstargames.com##.social-share
+
+! 8/9/2019 https://play.google.com
+play.google.com##.QeUCtb.Z97G4e.N4FjMb > .QeUCtb.Z97G4e > div > c-wiz > c-wiz.Ubi8Z.UBeTzd:nth-of-type(2)
+play.google.com##.QeUCtb.Z97G4e.N4FjMb > .QeUCtb.Z97G4e > div > c-wiz > c-wiz.Ubi8Z.UBeTzd:nth-of-type(8)
+
+! 8/9/2019 https://en.m.wiktionary.org
+en.m.wiktionary.org##.page-actions-menu
+
+! 8/9/2019 https://www.espn.com
+www.espn.com##.ad-banner-wrapper
+www.espn.com##section.contentItem:nth-of-type(4)
+www.espn.com##.PageFooter__QuickLinks
+www.espn.com##[href="http://priv-policy.imrworldwide.com/priv/browser/us/en/optout.html"]
+www.espn.com##[href^="http://preferences-mgr.truste.com/"]
+www.espn.com##[href="http://www.espncms.com/Advertise-on-ESPN.aspx"]
+www.espn.com##[href="http://www.nielsen.com/digitalprivacy"]
+www.espn.com##.article-social
+www.espn.com##.float-r.editorial.inline
+www.espn.com##.ad-center
+www.espn.com##.espn-plus-container
+
+! 8/9/2019 https://www.androidcentral.com
+www.androidcentral.com##.clearfixb.clearfix.page-header
+www.androidcentral.com##.article-header__disclosure
+
+! 8/9/2019 https://www.sandisk.com
+www.sandisk.com##.back-top
+www.sandisk.com##.signup-form-wrap
+www.sandisk.com##.socialmedia
+
+! 8/9/2019 https://www.androidcentral.com
+www.androidcentral.com###banneradspace
+www.androidcentral.com##[href="https://www.mobilenations.com/privacy-policy#your-choices"]
+www.androidcentral.com##.disclosure
+
+! 8/9/2019 https://www.amazon.com
+www.amazon.com###sims-mobile-consolidated-1
+
+! 8/9/2019 https://truejersey.com
+truejersey.com###omnisend-dynamic-container
+truejersey.com##.social-icons
+truejersey.com##.social-sharing
+truejersey.com##[href="https://truejersey.com/pages/exchanges-returns"]
+truejersey.com##.full-width--return-link.full-width
+truejersey.com##.ac-text-center.ac-recommender-header
+
+! 8/9/2019 https://news.google.com
+news.google.com##.EA71Tc.zWHNCf > div:nth-of-type(18)
+news.google.com##div:nth-of-type(19)
+news.google.com##div:nth-of-type(20)
+
+! 8/9/2019 https://www.si.com
+www.si.com##.mobile-ad
+www.si.com##.newsletter-callout.component
+www.si.com##.social-container
+www.si.com##.subscribe-callout.component
+www.si.com##.social-items
+www.si.com##section.menu:nth-of-type(7)
+
+! 8/9/2019 https://www.tripadvisor.com
+www.tripadvisor.com##.homepage-homepage-hero-SponsoredProfile__text--2-hkj
+
+! 8/9/2019 https://www.reddit.com
+www.reddit.com##li.OverlayMenu-row:nth-of-type(5)
+www.reddit.com##li.OverlayMenu-row:nth-of-type(4)
+
+! 8/9/2019 https://www.redditinc.com
+www.redditinc.com##.smooth-nav
+
+! 8/9/2019 https://www.reddit.com
+www.reddit.com##span.AwardingsBar__awardItem:nth-of-type(3)
+www.reddit.com##span > .AwardingsBar__awardBadges > span.AwardingsBar__awardItem:nth-of-type(1)
+||www.redditstatic.com/gold/awards/icon/silver_64.png$image
+
+! 8/9/2019 https://www.dominos.com
+www.dominos.com##[href="/en/pages/giftcard/"]
+www.dominos.com##[href="/en/pages/content/nutritional/nutrition.jsp"]
+www.dominos.com##[href="/en/pages/content/opt-in/opt-in.jsp"]
+www.dominos.com##.footer__group--promos.footer__group
+www.dominos.com##.footer__legal
+www.dominos.com##.seo-content
+www.dominos.com##.is-hidden\@desktop.footer-order-online.is-anon.homepage-wrapper
+
+! 8/9/2019 https://www.bing.com
+www.bing.com###mfa_srch
+www.bing.com###opal_serpftrcta
+www.bing.com##.vid_action_bar
+www.bing.com##.pane
+www.bing.com##.inline_tile
+www.bing.com##[href^="https://go.microsoft.com/fwlink/"]
+www.bing.com##[href^="http://go.microsoft.com/fwlink/"]
+www.bing.com###ftrLnks
+www.bing.com###ss_expdr
+www.bing.com##.gencell.varh.iuscp
+www.bing.com##.br_adSlugCntr
+www.bing.com##.prsnlsgmini
+
+! 8/9/2019 https://www.wbur.org
+www.wbur.org##.global-player-label
+www.wbur.org##.global-player
+www.wbur.org##.uw--leaderboard.uw
+www.wbur.org##.section--takeover
+www.wbur.org##.article-share
+
+! 8/9/2019 https://www.iheart.com
+www.iheart.com##.css-dox55q
+www.iheart.com##.evk05m60.css-s7spms
+www.iheart.com##.css-7b8cg4
+www.iheart.com##[href="https://www.iheart.com/content/privacy-rights-choice-and-access/"]
+www.iheart.com##.e1cef74m0.css-1wxtuc2 > .egufnmf0.css-1mise7w > .e1b1130n0.css-1fpt8h4 > .eqypz100.css-ohq8qs > .SVGInline
+
+! 8/10/2019 https://www.someecards.com
+www.someecards.com##.ad-row
+www.someecards.com##.share-container
+www.someecards.com##.ad-label
+www.someecards.com##.ad-wrapper
+
+! 8/10/2019 https://www.quora.com
+www.quora.com##.MobilePageWrapperFooterInner
+www.quora.com###__w2_wPnyd0Hx2_view_in_app
+www.quora.com###__w2_wcDxTbLL4_related_questions
+www.quora.com###__w2_wTgpgDgX63_related_questions
+www.quora.com###__w2_wJ6Bs1Sd4_related_questions
+
+! 8/10/2019 https://addons.mozilla.org
+addons.mozilla.org##.HomeHeroGuides-header
+addons.mozilla.org##.GetFirefoxButton
+addons.mozilla.org##.Card--no-footer.Home-CuratedThemes.Home-SubjectShelf.Card
+addons.mozilla.org##.Footer-links-social
+addons.mozilla.org##.Footer-copyright
+addons.mozilla.org##.Footer-firefox-links
+addons.mozilla.org##.Footer-amo-links
+addons.mozilla.org##.Button--micro.RatingManager-log-in-to-rate-button.Button--action.Button
+addons.mozilla.org##.AddAddonToCollection.Card
+addons.mozilla.org##.AddonRecommendations
+addons.mozilla.org##.Button--puffy.PermissionCard-learn-more.Button--neutral.Button
+addons.mozilla.org##.RatingsByStar
+addons.mozilla.org##.ContributeCard
+addons.mozilla.org##.Addon-overall-rating
+
+! 8/10/2019 https://www.tampermonkey.net
+www.tampermonkey.net##.adventing
+
+! 8/10/2019 https://openuserjs.org
+openuserjs.org##.alert-dismissible
+openuserjs.org##.btn-donate
+
+! 8/15/2019 https://theculturetrip.com
+theculturetrip.com###cookie-policy-banner
+theculturetrip.com##.download-bannerstyled__DownloadBanner-wc5z0b-0
+theculturetrip.com##.content-newsletter-wrapperstyled__ContentNewsletterWrapper-s1g5v049-0
+theculturetrip.com##.sticky-bottom-icon-liststyled__StickyBottomIconList-s1qzbcre-0
+theculturetrip.com##.add-to-wishlist-buttonstyle__AddToWishlistButtonWrapper-ria6qb-0
+theculturetrip.com##.top-area-gridstyled__ShareCell-s8nqa0y-0
+theculturetrip.com##.app-install-buttons-wrapperstyled__AppInstallButtonsWrapper-s1xcgr0-0
+theculturetrip.com##.styled-menustyled__StyledMenu-s118k5r2-0
+
+! 8/15/2019 https://rinconvacations.com
+rinconvacations.com###toTop
+
+! 8/15/2019 https://www.puertorico.com
+www.puertorico.com##.cookie-popup
+www.puertorico.com##iframe
+www.puertorico.com##.swp_social_panel
+
+! 8/15/2019 https://uploadrar.com
+||uploadrar.com/uploadrar_style/images/logo.png$image
+uploadrar.com##.btn-primary.btn
+
+! 8/15/2019 https://www.uploadship.com
+www.uploadship.com##.file-box
+www.uploadship.com##.UPFS
+||www.uploadship.com/*.png$image
+www.uploadship.com##.PLAYER.pages
+www.uploadship.com##.footer
+
+! 8/15/2019 https://www.forbes.com
+www.forbes.com##.amp-sticky-ad-close-button
+www.forbes.com##.share-icon
+||ampproject.net/*/frame.html$subdocument
+www.forbes.com##.ad-unit
+
+! 8/15/2019 https://www.worldatlas.com
+www.worldatlas.com##.adWrap
+www.worldatlas.com##.icon-facebook
+www.worldatlas.com##.socialShare
+www.worldatlas.com##.icon-twitter
+
+! 8/16/2019 https://outlook.live.com
+outlook.live.com##.tnarrowStoreIcon
+
+! 8/16/2019 https://www.cnbc.com
+www.cnbc.com##.ArticleTicker-toggle
+www.cnbc.com##.ArticleTicker-tickerWrapper
+www.cnbc.com###ArticleTicker-1
+www.cnbc.com###social-buttons
+www.cnbc.com###nav-menu-article
+www.cnbc.com###Placeholder-ArticleBody-Video-106024521
+
+! 8/16/2019 http://www.ciqalasuites.connectotels.com
+www.ciqalasuites.connectotels.com##.mailchimp
+www.ciqalasuites.connectotels.com##.social
+www.ciqalasuites.connectotels.com##.disclaimer-footer-txt
+
+! 8/16/2019 https://www.google.com
+www.google.com##.neWwo
+
+! 8/16/2019 https://m.yelp.com
+m.yelp.com##.cta-menubar-pitch_left-icons
+m.yelp.com##.trust-banner.island
+
+! 8/16/2019 https://www.booking.com
+www.booking.com##.hp-header-badge
+www.booking.com##.bui-banner
+www.booking.com##.appacq-banner-rating-wrap
+www.booking.com##.m-newsletter-signup
+www.booking.com##.js-m-share-list.m_hp_accordion--property_details.bui-accordion__row
+www.booking.com##.index-usp
+
+! 8/16/2019 https://www.google.com
+www.google.com##.N8mbHe.n9GeYe
+
+! 8/17/2019 https://www.post-gazette.com
+www.post-gazette.com##.pg-mobile-adhesionbanner
+www.post-gazette.com###benn-poll-iframe-container
+www.post-gazette.com###pgevoke-fp-stickybox1
+www.post-gazette.com##.pg-adtarget
+www.post-gazette.com##.graytext.upper.small.center
+www.post-gazette.com##.pgevoke-socialshareheader
+www.post-gazette.com##.pgevoke-story-related-link
+www.post-gazette.com##.pgevoke-headerbar
+www.post-gazette.com##.pgevoke-story-rightrail
+www.post-gazette.com##.pg-adnotice
+www.post-gazette.com##[href="https://www.post-gazette.com/newsletters"]
+
+! 8/17/2019 https://www.google.com
+www.google.com##.JP8rKe
+
+! 8/17/2019 https://www.businessinsider.co.za
+www.businessinsider.co.za##.LeaderboardAdSpot
+www.businessinsider.co.za##.social
+
+! 8/20/2019 https://www.businessinsider.co.za
+www.businessinsider.co.za##[href="https://www.businessinsider.co.za/whatsapp-newsletter/"]
+www.businessinsider.co.za###newsSubscribe
+www.businessinsider.co.za##[href="./contact"]
+
+! 8/20/2019 https://www.businessinsider.com
+www.businessinsider.com##.summary-list > li:nth-of-type(4)
+www.businessinsider.com###gpt-post-politics-mobile_in_post_ad-mobile-web-1
+www.businessinsider.com##p:nth-of-type(3)
+www.businessinsider.com###gpt-post-politics-mobile_in_post_ad-mobile-web-2
+www.businessinsider.com##.popular-video
+
+! 8/20/2019 https://www.newyorker.com
+www.newyorker.com##.LinkFailsafe__subscribe___1h4a7
+www.newyorker.com##.SoloPromoSection__promoWrapper___2zsVH
+www.newyorker.com##.Failsafe__tny-failsafe___3NxXj
+www.newyorker.com##.SpotlightSection__adContainer___21KsF
+www.newyorker.com##.Slideshow__cartoonShare___2sjhf
+||www.wnyc.org/widgets/ondemand_player/thenewyorker/?share=1$subdocument
+www.newyorker.com##.MagazineSection__magazineSection___10Cpg
+www.newyorker.com##.FooterSocialLinks__socialLinks___30_Va
+www.newyorker.com##.FooterPromoLinks__promoLinks___3HDWB
+
+! 8/20/2019 https://www.vanityfair.com
+www.vanityfair.com##.social-icons
+www.vanityfair.com##.paywall-meter--show.paywall-meter
+www.vanityfair.com##.cne-interlude-embed
+www.vanityfair.com##.standard-navigation__section--utility-links
+www.vanityfair.com##.ad
+
+! 8/20/2019 https://www.file-up.org
+www.file-up.org##.social
+www.file-up.org##.top-info
+www.file-up.org##.antivirus
+www.file-up.org##.scrollToTop
+www.file-up.org##.fa-check.fa
+www.file-up.org##.fa-close.fa
+||www.file-up.org/assets/images/logo_new.png$image
+www.file-up.org###sharebuttons
+||www.youtube.com/subscribe_embed$subdocument
+||www.facebook.com/v2.7/plugins/like.php$subdocument
+www.file-up.org###___ytsubscribe_0
+www.file-up.org##.blocktxt
+www.file-up.org##[href^="https://safeweb.norton.com/report/show"]
+||images.dmca.com/Badges/_dmca_premi_badge_4.png$image
+
+! 8/20/2019 https://mixloads.com
+mixloads.com##.feather-x.feather
+mixloads.com##.feather-frown.feather
+
+! 8/20/2019 https://uploadbyte.com
+||uploadbyte.com/xFileSharingTemplates/images/s*.png$image
+||uploadbyte.com/xFileSharingTemplates/images/s*.png$image
+
+! 8/20/2019 https://dropapk.to
+dropapk.to##div.text-center.col-md-4:nth-of-type(2) > .download_method
+dropapk.to##.py-4.bg-white.features__section
+dropapk.to##.bg-white.py-5.payment_methods
+dropapk.to##.feather-x.feather
+dropapk.to##.feather-frown.feather
+dropapk.to##.mb-4.alert-warning.alert
+
+! 8/20/2019 https://www.mediafire.com
+www.mediafire.com###adwrapper
+www.mediafire.com##.DLMobile-upsellBox
+www.mediafire.com##.DLExtraInfo-wrap
+www.mediafire.com##.subFooterSocialWrap
+
+! 8/20/2019 https://www7.zippyshare.com
+www7.zippyshare.com##.center_ad
+www7.zippyshare.com##.ramka_container
+www7.zippyshare.com##.tickicon
+
+! 8/20/2019 https://userupload.net
+userupload.net##.ad-unit
+userupload.net##[src="https://userupload.net/hg/telegram-button.png"]
+userupload.net##.btn-block.btn-danger.btn
+userupload.net##.fileBottom
+userupload.net##.col-sm-12
+userupload.net##.report
+userupload.net##.fileInfo
+
+! 8/20/2019 https://earn4files.com
+earn4files.com###container > div > div:nth-of-type(1)
+earn4files.com##.compare-col
+earn4files.com##.antivirus
+earn4files.com###container > div > div:nth-of-type(2)
+earn4files.com##.blocktxt
+earn4files.com##input.btn-info.btn:nth-of-type(6)
+earn4files.com##.captcha > center
+earn4files.com##.section
+earn4files.com##section > div:nth-of-type(2)
+earn4files.com##.btn-custom.btn
+earn4files.com##.btn-success.btn.downloadbtn
+
+! 8/20/2019 https://onhax.me
+onhax.me##.oh_mu_ptibadge
+
+! 8/20/2019 https://dailyuploads.net
+||dailyuploads.net//images_mega/bg.png$image
+
+! 8/20/2019 https://douploads.net
+douploads.net##[href="https://www.facebook.com/DoUploads"]
+
+! 8/20/2019 https://www.sixflags.com
+||app.sixflags.com/images/membership/june19tst/NoFees.png$image
+||static.sixflags.com/website/infowindows/member-test_300m.jpg$image
+www.sixflags.com##.pane-sixflags-facebook-sixflags-facebook.pane-block.panel-pane
+www.sixflags.com##.pane-sharethis-sharethis-block
+www.sixflags.com##.field-label-hidden.field-type-text-with-summary.field-name-field-global-opt-html-sidebar-1.field
+
+! 8/20/2019 https://www.visitkingsisland.com
+www.visitkingsisland.com##.cfp-partner-bar_footer
+||cdn-cloudfront.cfauthx.com/binaries/content/gallery/kings-island/backgrounds/background-texture.jpg$image
+www.visitkingsisland.com###cfp-mainOIXQA6 > div.cfp-component-container:nth-of-type(2)
+www.visitkingsisland.com##.cfp-footer_connect
+www.visitkingsisland.com##.cfp-footer_navigate
+www.visitkingsisland.com##.slick-dotted.slick-slider.slick-initialized.cfp-banner_slides
+
+! 8/20/2019 https://www.isidewith.com
+www.isidewith.com##.home_social
+www.isidewith.com##.subIssues
+www.isidewith.com##.zipcode
+www.isidewith.com###site_share
+
+! 8/20/2019 https://www.pornhub.com
+www.pornhub.com##.producer-icon
+
+! 8/20/2019 https://www.pornhubpremium.com
+||ci.phncdn.com/www-static/images/premium/rta.jpg$image
+
+! 8/20/2019 https://www.xvideos.com
+www.xvideos.com###ad-header-mobile-contener
+www.xvideos.com##.tab-buttons
+
+! 8/20/2019 https://xhamster.com
+xhamster.com##.rendered.underplayer.wit-cams-widget > .scrollable
+xhamster.com##.rendered.underplayer.wit-cams-widget > .title
+xhamster.com##.rendered.underplayer.wit-cams-widget
+xhamster.com##.categories-container-subscription-item.categories-container__item
+xhamster.com##.no-popunder.cookie-announce.bottom-announce
+xhamster.com##footer
+xhamster.com##.wit-spot-container
+xhamster.com##.wit-sponsor-link-text.info_text
+xhamster.com##.sponsor-link-banner
+xhamster.com##.xplayer-share-control
+xhamster.com##.subscribe-block
+xhamster.com##.ftscroller_hwaccelerated.ftscroller_x > .items
+xhamster.com##.video-view-ads--centered.video-view-ads
+xhamster.com##.categorieslist.scrollable > .ftscroller_container
+xhamster.com##.categorieslist.scrollable
+
+! 8/20/2019 https://www.redtube.com
+www.redtube.com###top_ad_container
+www.redtube.com###paid_tabs_container
+www.redtube.com###home_page_premium_btn
+www.redtube.com##.adContainer
+www.redtube.com##li.channel-block
+www.redtube.com##.clearfix.search_results_streamate
+www.redtube.com##.social-links
+www.redtube.com##.clearfix.pornstars_results_wrapper
+www.redtube.com##.active.footer_links_section
+www.redtube.com##.subscribe_btn_icon.rt_Menu_User_Subscriptions.rt_icon
+www.redtube.com###show_page_streamate
+
+! 8/20/2019 https://thisvid.com
+thisvid.com##.wpcc-color-custom-447278441.wpcc-bottom.wpcc-border-thin.wpcc-fontsize-small.wpcc-transparency-25.wpcc-margin-small.wpcc-padding-small.wpcc-corners-normal.wpcc-corners-round.wpcc-float.wpcc-container
+||media.thisvid.com/images/bg-tools.png$image
+thisvid.com###flagging_container
+thisvid.com##iframe
+thisvid.com##.spots.bottom-spots
+
+! 8/20/2019 https://www.pornhub.com
+www.pornhub.com##.two_sections.becomeFan_sendTip_wrap
+www.pornhub.com##.paidClips.flow.contentContainer
+www.pornhub.com##.removeAdsStyle.removeAdLink
+www.pornhub.com##.loggedOut.actionBtn.subscribeButton
+
+! 8/20/2019 http://gay.xtapes.to
+||gay.xtapes.to/wp-content/themes/novavideo/images/textures/pattern16.png$image
+gay.xtapes.to###asg-114104-etCuqO
+gay.xtapes.to##.asg-overlay
+gay.xtapes.to##.backtotopinstance
+gay.xtapes.to###sidebar
+gay.xtapes.to##.share-buttons
+
+! 8/20/2019 https://www.cameo.com
+www.cameo.com##._1-9K_r_xfcAh_YczyXm_cm
+www.cameo.com##.bRuqa4F5vj7Xmg_gF5D7E
+www.cameo.com##.eE1zydZTOGWvOEYd29FlV._2nhzBA1RlNKOVN_nNggXzW
+
+! 8/20/2019 https://builds.io
+builds.io##cloudflare-app
+builds.io##[href="#top"]
+builds.io##[href="/publishing/"]
+builds.io##[href="mailto:abuse@builds.io"]
+builds.io###home__counting-link
+builds.io##.alert-warning.alert-message.alert-dismissible.alert
+builds.io##.alert-info.alert-message.alert-dismissible.alert
+builds.io##.partner-block
+
+! 8/20/2019 https://www.tweakboxapp.com
+www.tweakboxapp.com##[href="https://www.twitter.com/tweakboxapp"]
+
+! 8/20/2019 https://sideload.tweakboxapp.com
+sideload.tweakboxapp.com##li.nav-item:nth-of-type(4) > .nav-link
+sideload.tweakboxapp.com##.text-center.mt-3 > .btn-white.btn
+sideload.tweakboxapp.com##span:nth-of-type(3) > .btn-white.btn
+sideload.tweakboxapp.com##.p-3.shadow.border-0.card
+sideload.tweakboxapp.com##h3.heading:nth-of-type(3)
+sideload.tweakboxapp.com##.mb-4.mt-2.btn-indigo.btn-primary.btn
+
+! 8/20/2019 https://next.tweakboxapp.com
+next.tweakboxapp.com###home > .block
+||servedbyadbutler.com$subdocument
+next.tweakboxapp.com##.external.color-orange.button-big.button-fill.button
+next.tweakboxapp.com##.external.color-pink.button-big.button-fill.button
+next.tweakboxapp.com##.adsbygoogle
+next.tweakboxapp.com##div.row:nth-of-type(2) > div.col:nth-of-type(1)
+next.tweakboxapp.com##.page-content > p
+
+! 8/20/2019 https://nypost.com
+nypost.com##.widget_nypost_social_widget
+nypost.com###home-page-post-photos
+nypost.com###home-page-post-video
+nypost.com###pagesix-top-stories
+nypost.com##.widget_nypost_postrology_widget.module.show-mobile.box
+nypost.com##.widget_nypost_columnists_widget.module.show-mobile.box
+nypost.com###footer-links
+nypost.com##.footer-social
+nypost.com##.powered-by-wpcom
+nypost.com###more-on
+nypost.com##.outbrain-enabled.comments
+
+! 8/20/2019 https://www.npr.org
+www.npr.org##.navigation__donate
+
+! 8/21/2019 https://onlyfans.com
+onlyfans.com##.js-login__form.js-loginreg__form.b-loginreg__form > h3
+onlyfans.com##.b-recommended
+
+! 8/21/2019 https://flingster.com
+flingster.com##.fl-bs.feedback_link
+flingster.com##main
+flingster.com##footer
+flingster.com###memberCount
+flingster.com##.mobile.chrome.camera-hint
+flingster.com###mobile-rlt-nav
+
+! 8/21/2019 https://alternativeto.net
+alternativeto.net###bottomNotifier
+
+! 8/21/2019 https://www.pornhub.com
+www.pornhub.com###premiumFeaturesContainer
+
+! 8/21/2019 https://menhdv.com
+menhdv.com##div.video-list:nth-of-type(8)
+
+! 8/21/2019 https://m.chaturbate.com
+m.chaturbate.com###et-images
+m.chaturbate.com##.thumbnail_label_c_new.thumbnail_label
+||ssl-ccstatic.highwebmedia.com/mobileassets/logo.svg$image
+||ssl-ccstatic.highwebmedia.com/mobileassets/cam_notice_background.jpg$image
+m.chaturbate.com###Gh
+
+! 8/22/2019 https://www.commonsensemedia.org
+www.commonsensemedia.org###block-csm-user-cookie-consent-message
+www.commonsensemedia.org###block-block-1
+www.commonsensemedia.org##.bg-blue.pane-get-fyf.pane-4.pane-custom.panel-pane
+www.commonsensemedia.org##.pane-csm-review-subscribe
+www.commonsensemedia.org##.panel-panel.panel-content-mid-right
+www.commonsensemedia.org###connect-social-links
+www.commonsensemedia.org###block-csm-ui-site-footer-site-search > .title
+www.commonsensemedia.org###block-csm-ui-site-footer-newsletter
+
+! 8/22/2019 https://www.newsweek.com
+www.newsweek.com##.social-share
+www.newsweek.com###dfp-ad-top-wrapper
+www.newsweek.com##.jc-fe.ai-c.flex-xs.flex-xs-6.col-2
+www.newsweek.com##.mStickyPlayer.videocontent-wrapper
+www.newsweek.com##.spotim-recirculation
+www.newsweek.com###block-fusion-arbitrage-more-slideshows-belowcontent
+www.newsweek.com###block-nw-nw-footer-subscription
+www.newsweek.com##.social
+www.newsweek.com##.newsletter-signup
+www.newsweek.com##.subscribe-block
+www.newsweek.com###block-nw-magazine-in-magazine-sidebar
+www.newsweek.com##[href="/advertise"]
+
+! 8/22/2019 https://www.theonion.com
+www.theonion.com##.inline-ad-container
+
+! 8/22/2019 https://politics.theonion.com
+politics.theonion.com###sharingfooter
+politics.theonion.com##.meta__right
+politics.theonion.com##.f-dropdown-ct.post-tags-container
+politics.theonion.com##.share-toolbar__container
+politics.theonion.com##.footer-subscribe
+politics.theonion.com##.fqBShn.footerNetwork__FooterNetworkLabel-sc-16n4lbp-1
+politics.theonion.com##.footerSocial__FooterSocialWrap-mimimi-0
+politics.theonion.com##.recent-video__Container-sc-16lj1xi-0
+
+! 8/22/2019 https://uploadev.org
+||histats.com$image
+uploadev.org##.offersprim
+||sstatic1.histats.com/0.gif$image
+uploadev.org##[src="//sstatic1.histats.com/0.gif?4272245&101"]
+
+! 8/22/2019 https://uploadbyte.com
+||uploadbyte.com/xFileSharingTemplates/images/s*.png$image
+
+! 8/22/2019 https://m.turbobit.net
+m.turbobit.net##.no
+m.turbobit.net##table
+m.turbobit.net###footer_menu
+m.turbobit.net###premium-btn
+m.turbobit.net###plus18toplogo
+m.turbobit.net###download-time-btn
+||m.turbobit.net/mobile/img/clock.png$image
+m.turbobit.net###age-label
+
+! 8/22/2019 https://userscloud.com
+userscloud.com##.cc-window
+userscloud.com##i.text-danger
+userscloud.com##.text-success.fa-info-circle.fa
+userscloud.com##[href="//dexessee.com/2547935.html"]
+userscloud.com##div:nth-of-type(8)
+userscloud.com##div:nth-of-type(9)
+userscloud.com##div:nth-of-type(10)
+userscloud.com##div:nth-of-type(11)
+
+! 8/22/2019 https://jerseyshore.craigslist.org
+jerseyshore.craigslist.org##[href="https://www.craigslist.org/about/cl_app_beta"]
+
+! 8/23/2019 https://www.xda-developers.com
+www.xda-developers.com##.tagbar
+www.xda-developers.com##.sponsor-dyn-banner
+
+! 8/23/2019 https://www.cnn.com
+www.cnn.com##.live-tv-button__LiveTvLink-sc-1ruc7gz-0
+www.cnn.com###homepage-magellan-zone-2 > .zn__background--content-relative.l-container > .zn__containers > .zn__column--idx-1.column
+
+! 8/23/2019 https://www-m.cnn.com
+www-m.cnn.com##._53039000
+
+! 8/23/2019 https://www.google.com
+www.google.com##.L3RXn
+www.google.com##.S1Bjic
+
+! 8/23/2019 https://www.cbsnews.com
+www.cbsnews.com###mobile-flex-pos2-1741232098
+www.cbsnews.com##.embed--float-none.embed__placeholder.embed
+www.cbsnews.com##.content-recirculation
+www.cbsnews.com###mobile-flex-pos3-849198900
+www.cbsnews.com##.smart-banner__wrapper
+www.cbsnews.com###mobile-flex-pos2
+www.cbsnews.com###mobile-flex-pos3
+www.cbsnews.com###mobile-flex-inc4
+www.cbsnews.com###mobile-mpu-bottom-5d603de0002fd
+www.cbsnews.com###component-taboola-below-article-feed
+
+! 8/23/2019 https://www.google.com
+www.google.com##.irc-flact.i15087.iv_msusc.dwv50c.NDcgDe
+www.google.com##.rg_ilbg
+www.google.com##.i5pYrf
+www.google.com##.ajyCge
+
+! 8/23/2019 https://newyork.cbslocal.com
+newyork.cbslocal.com###live
+newyork.cbslocal.com###ott-promotion-block
+
+! 8/23/2019 https://www.google.com
+www.google.com##.inrOQagVYsfM-nOVazOxFBVY
+
+! 8/23/2019 https://en.m.wikipedia.org
+en.m.wikipedia.org##.noprint.ra-read-more > h2
+en.m.wikipedia.org##[href="/wiki/Wikipedia:General_disclaimer"]
+en.m.wikipedia.org##[href="/wiki/Wikipedia:About"]
+
+! 8/23/2019 https://www.xvideos.com
+www.xvideos.com##.chat-icon
+www.xvideos.com###page-go-up
+
+! 8/23/2019 https://www.icegay.tv
+www.icegay.tv##.b-mobile-spots
+www.icegay.tv###ticker
+www.icegay.tv##.is-open.js-playlist-panel.b-playlist
+www.icegay.tv##.js-add-to-pl
+www.icegay.tv##.c-rating
+
+! 8/23/2019 https://www.gayporno.fm
+www.gayporno.fm##.b-mobile-spots
+www.gayporno.fm##.b-mobile-random-links
+www.gayporno.fm###ticker
+
+! 8/23/2019 https://www.pornhubapparel.com
+www.pornhubapparel.com###fsb_container
+www.pornhubapparel.com##.social-icons
+www.pornhubapparel.com##.h5
+www.pornhubapparel.com##.announcement-bar__message
+
+! 8/23/2019 https://pornhubtoys.com
+pornhubtoys.com##.promo_banner
+pornhubtoys.com##.newsletter_section
+
+! 8/23/2019 https://www.jackandjilladult.com
+||jackandjilladult-9971.kxcdn.com/wp-content/themes/jandj/img/top-bar.jpg$image
+www.jackandjilladult.com##.top-bar-bg.top-bar
+www.jackandjilladult.com##.w153-soc-sha
+
+! 8/23/2019 https://www.annsummers.com
+www.annsummers.com##.ui-front.ui-widget-overlay
+www.annsummers.com##.delivery-destination-dialog.ui-front.ui-corner-all.ui-widget-content.ui-widget.ui-dialog
+www.annsummers.com##.cookie-top
+www.annsummers.com###email_sign_wrap_mobile
+
+! 8/23/2019 https://www.jackandjilladult.com
+||jackandjilladult-9971.kxcdn.com/wp-content/uploads/2019/01/JNJ-Banner-1100x100.jpg$image
+
+! 8/24/2019 https://www.amazon.com
+www.amazon.com##.csm-strategy-id-cue-MissionPicks.csm-widget-type-quad-multi-asin-card
+www.amazon.com###ape_gateway_grid-19_gateway-mWeb_text-wrapper
+www.amazon.com##.csm-widget-type-ad-placements-blackjack-widget
+www.amazon.com##.bxc-grid__container
+www.amazon.com##.prime-signup-ingress
+www.amazon.com###tellAFriendBox_feature_div
+www.amazon.com###sponsoredProducts_feature_div
+www.amazon.com##.similarities-widget
+www.amazon.com###sponsoredProducts2_feature_div
+www.amazon.com###WrapperDivToHideBTF > div.a-section:nth-of-type(48)
+www.amazon.com###detailPageGifting_feature_div
+www.amazon.com##.a-vertical.a-unordered-list
+www.amazon.com##.a-spacing-small
+www.amazon.com##.s-shopping-adviser
+www.amazon.com##.s-visual-card-navigation-mobile
+www.amazon.com##.rush-component > .rush-component
+www.amazon.com##.amzn-safe-frame-container
+www.amazon.com###va-related-videos-widget_feature_div
+www.amazon.com##div.js-revealed-widget
+www.amazon.com##.dv-signup-button.DTcFQO
+www.amazon.com##.dv-standard-carousel.a-section
+www.amazon.com##.clickthroughLink
+www.amazon.com##.block--direction-column
+www.amazon.com###pdagMwebCarousel
+www.amazon.com###storeDisclaimer_feature_div
+www.amazon.com##.bucket.vse-empty-view-container
+www.amazon.com###nav-ftr-auth
+www.amazon.com###icp-touch-link-language
+www.amazon.com###icp-touch-link-country
+www.amazon.com##.icp-container-mobile
+www.amazon.com###gosu-dp
+
+! 8/24/2019 https://www.theatlantic.com
+www.theatlantic.com###hp-writersmodule
+
+! 8/24/2019 https://www.thejournalnj.com
+www.thejournalnj.com##.journal-cover-wrapper
+||www.thejournalnj.com/wp-content/uploads/2018/12/The-Journal-NJ-Local-News-Publications*.jpg$image
+www.thejournalnj.com##.interior-social
+
+! 8/24/2019 https://www.app.com
+www.app.com###partner-mobileweb-section-front-top-1
+www.app.com###yt-extension
+www.app.com###partner-mobileweb-section-front-bottom-2
+www.app.com###partner-mobileweb-section-front-bottom-3
+www.app.com##.feedback
+www.app.com##.hydrated
+www.app.com##promo-weather
+www.app.com###partner-mobileweb-banner-top-1
+www.app.com###partner-mobileweb-banner-bottom-2
+www.app.com###partner-mobileweb-banner-bottom-3
+www.app.com###partner-mobileweb-banner-bottom-4
+www.app.com##div.no-gutter
+www.app.com###partner-mobileweb-banner-bottom-5
+www.app.com###ga-modal-slot
+
+! 8/24/2019 https://www.google.com
+www.google.com##.u2quVpIWVr0__temporary-overlay
+
+! 8/24/2019 https://www.cameo.com
+www.cameo.com##.fa-twitter
+www.cameo.com##.fa-instagram
+www.cameo.com##.fa-envelope
+www.cameo.com##.fa-apple
+www.cameo.com##.fa-facebook
+www.cameo.com##.col-lg-offset-1.col-lg-5.col-md-6._2g4t6gt9IMVJrE2V52ObR9
+www.cameo.com##._2g4t6gt9IMVJrE2V52ObR9
+
+! 8/24/2019 https://adamevestores.com
+||adamevestores.com/wp-content/uploads/2018/05/ae_eclub_450x180-400x180.jpg$image
+adamevestores.com##.x-social-global
+
+! 8/24/2019 https://www.adameve.com
+www.adameve.com###MoxieFlyoutHolder
+www.adameve.com###return-to-top
+www.adameve.com##[href="tel:1-800-765-2326"]
+www.adameve.com##.emailSignUp
+www.adameve.com###social-links
+
+! 8/24/2019 https://old.reddit.com
+old.reddit.com##.mobile-web-redirect-bar
+old.reddit.com##.premium-banner-outer
+old.reddit.com##.listingsignupbar.infobar
+
+! 8/24/2019 https://www.elitedaily.com
+||cdn.bustle.com/elitedaily/production/public/facebook-cb9174.svg$image
+||cdn.bustle.com/elitedaily/production/public/facebook-cb9174.svg$image
+
+! 8/24/2019 https://www.buzzfeed.com
+www.buzzfeed.com##.xs-text-center.sm-text-4.xs-text-5.xs-py2.xs-px1.xs-pb1
+www.buzzfeed.com##.sharing-btn--c-facebook
+www.buzzfeed.com##.sharing-btn--c-pinterest
+www.buzzfeed.com##.sharing-btn--c-more
+
+! 8/24/2019 https://www.amazon.com
+www.amazon.com###bannerx0-root
+
+! 8/25/2019 https://patch.com
+patch.com##.weather_type.weather
+patch.com##.h-100 > .justify-content-end.d-flex.align-items-center
+patch.com##.slotted-ad-unit
+patch.com##.uk-move_slot.carousel-slot-default
+patch.com##.w-100.px-sm-4.px-3
+patch.com##.fb_iframe_widget_fluid
+patch.com###block-fe-recirc-fe-recirc-special-pins
+patch.com##.next-on-patch-arrow
+patch.com###in-article-sub-button
+patch.com##.air-vert-lg
+patch.com###block-fe-ticketnetwork-fe-ticketnetwork-sidebar
+patch.com##.text-center.list-inline
+
+! 8/25/2019 https://onhax.me
+onhax.me##div:nth-of-type(14)
+
+! 8/25/2019 https://adguard.com
+adguard.com##div.footer__icons
+adguard.com##.publish--welcome.publish--blog.publish
+adguard.com##div.publish--welcome.publish
+adguard.com##.featured__icons
+
+! 8/25/2019 https://addons.mozilla.org
+addons.mozilla.org##.Card--photon.AddonsCard--horizontal.LandingAddonsCard-Themes
+addons.mozilla.org##.PermissionsCard.Card
+addons.mozilla.org##.Header-user-and-external-links
+
+! 8/25/2019 https://www.bbc.com
+www.bbc.com##.module--weather
+www.bbc.com##.module--reel
+www.bbc.com##.top-list
+www.bbc.com##.channels__promo
+www.bbc.com##.wsradio
+www.bbc.com##.module--languages
+www.bbc.com##[href="https://www.bbc.co.uk/bbcnewsletter"]
+www.bbc.com##[href="https://advertising.bbcworldwide.com/"]
+www.bbc.com##[href="https://www.bbc.com/usingthebbc/cookies/how-does-the-bbc-use-cookies-for-advertising/"]
+www.bbc.com##[href="https://www.bbc.co.uk/usingthebbc/cookies/"]
+
+! 8/25/2019 https://m.youtube.com
+m.youtube.com##.slim-video-metadata-standalone-badge
+m.youtube.com##.mobile-topbar-header-sign-in-button
+m.youtube.com##.mealbar-promo-renderer
+m.youtube.com##ytm-player-error-message-renderer
+
+! 8/25/2019 https://filterlists.com
+filterlists.com##.justify-content-center.row
+||filterlists.com/logo_filterlists.png$image
+
+! 8/25/2019 https://www.walmart.com
+www.walmart.com###vh-app-container
+www.walmart.com###vf-feedback-bubble-fixed-link
+www.walmart.com##.e_t.e_f.e_i.ba_b.n_r.n_a.e_a
+www.walmart.com###vf-sister-brands-links-list
+www.walmart.com###grocery-tooltip-root
+
+! 8/25/2019 https://www.oneplus.com
+www.oneplus.com##.footer-container > .social-media
+www.oneplus.com##.cookie-warn
+www.oneplus.com###header-auto-subscribe
+www.oneplus.com###section-subscribe-home
+www.oneplus.com##.social-media
+||privacy-policy.truste.com/privacy-seal/seal$image
+
+! 8/26/2019 https://store.google.com
+store.google.com##.promo-text
+store.google.com##.social-icons
+
+! 8/26/2019 https://uploadrar.com
+uploadrar.com##div.download0page:nth-of-type(1)
+uploadrar.com##div.download0page:nth-of-type(4) > .blockpage
+uploadrar.com##.blockpage > .title
+uploadrar.com##.icofont-cloud-download
+
+! 8/26/2019 https://dropapk.to
+dropapk.to##.p-0.mx-auto.my-0.features
+dropapk.to##div:nth-of-type(8)
+
+! 8/26/2019 https://file555.com
+file555.com##center
+file555.com##input:nth-of-type(6)
+file555.com###sharebuttons
+file555.com##div.sec.lft:nth-of-type(4)
+file555.com##.report
+file555.com##.rightcol
+
+! 8/26/2019 https://www.buzzfeed.com
+www.buzzfeed.com##.newsletter-container
+
+! 8/26/2019 https://www.google.com
+www.google.com##.ki5rnd
+
+! 8/26/2019 https://vsco.co
+vsco.co##.css-1h6z90h
+
+! 8/27/2019 https://store.steampowered.com
+store.steampowered.com##.DRM_notice
+store.steampowered.com##div.responsive_apppage_details_left.block:nth-of-type(3)
+
+! 8/27/2019 https://www.usnews.com
+www.usnews.com##.hCXnMR
+www.usnews.com##.ldywyG
+www.usnews.com##.Ad__Container-s7b1bo9-0
+www.usnews.com##.hLlYjQ.s85n6m5-0-Box-cwadsP
+www.usnews.com##.hfaGjK.s85n6m5-0-Box-cwadsP
+www.usnews.com##.SocialIcons__Container-s1ca0h5-0
+
+! 8/27/2019 https://efukt.com
+efukt.com##.trevda_mobile_header_contain
+
+! 8/27/2019 https://m.drtuber.com
+m.drtuber.com###spot_video_underplayer_livecams
+m.drtuber.com##.tabs_buttons
+m.drtuber.com##.vpage_premium_bar
+
+! 8/28/2019 https://openuserjs.org
+openuserjs.org##.fa-exclamation-triangle.fa-fw.fa
+
+! 8/28/2019 https://greasyfork.org
+greasyfork.org##[href^="/en/users/sign_in"]
+greasyfork.org##[href="/en/forum/"]
+greasyfork.org##[href="/en/help"]
+greasyfork.org##[href="/en/help/writing-user-scripts"]
+greasyfork.org##[href="/en/script_versions/new"]
+greasyfork.org##p:nth-of-type(2)
+greasyfork.org##p:nth-of-type(1)
+
+! 8/29/2019 https://m.imdb.com
+m.imdb.com##.native-ad-promoted-provider
+m.imdb.com##.uc-add-wl-pending-container
+m.imdb.com##._32mc4FXftSbwhpJwmGCYUQ
+m.imdb.com##.imdb-footer__socials
+m.imdb.com##.titlemain-watchlist-button
+
+! 8/30/2019 https://www.google.com
+www.google.com##.uCv6Mb
+www.google.com##.kxhcC
+
+! 8/30/2019 https://www.hdpornvideo.xxx
+||o333o.com$subdocument
+
+! 8/30/2019 https://www.usatoday.com
+www.usatoday.com##div.no-gutter
+www.usatoday.com###partner-mobileweb-banner-top-1
+www.usatoday.com###partner-mobileweb-banner-bottom-2
+www.usatoday.com##cta-atoms-container-inline.spacer-large
+www.usatoday.com##promo-up-next
+www.usatoday.com###partner-mobileweb-banner-bottom-4
+www.usatoday.com###partner-mobileweb-banner-bottom-5
+
+! 9/2/2019 https://www.cia.gov
+www.cia.gov##.go-top
+www.cia.gov##[src="../images/ico-06.png"]
+
+! 9/2/2019 https://www.britannica.com
+www.britannica.com##.marketing-content.marketing-HEADER_SUBSCRIPTION_PHONE
+www.britannica.com##.mobile-share.md-nav-item
+
+! 9/2/2019 https://www.procon.org
+||www.google.com/cse/static/images/1x/googlelogo_lightgrey_46x16dp.png$image
+
+! 9/2/2019 https://www.snopes.com
+www.snopes.com##.smg-zone-widget-ads-freestar
+www.snopes.com##.banner-alert
+www.snopes.com##.support-us
+www.snopes.com##.social-buttons
+www.snopes.com###smg-zone-content-after
+www.snopes.com##.smg-zone-widget-ads-house-how-to-support
+www.snopes.com##h6 > span
+
+! 9/2/2019 https://suicidepreventionlifeline.org
+suicidepreventionlifeline.org##.tablet-three-fifths.phablet-one-half.grid__item
+suicidepreventionlifeline.org##.FooterSocial
+||suicidepreventionlifeline.org/wp-content/uploads/2018/06/vibe-logo-h.png$image
+suicidepreventionlifeline.org##.FooterNav_item-logos
+suicidepreventionlifeline.org##.share-button
+
+! 9/2/2019 https://store.samhsa.gov
+store.samhsa.gov###block-samhsa-theme-block-footer-social
+store.samhsa.gov###block-samhsa-theme-block-bottom-footer-blast
+
+! 9/3/2019 http://192.168.1.228
+192.168.1.228##[href="https://pi-hole.net/donate"]
+192.168.1.228##.main-footer
+192.168.1.228###alError
+
+! 9/4/2019 https://www.google.com
+www.google.com##.wp-ms.gsrt.rKFBM
+
+! 9/4/2019 https://genius.com
+genius.com##.dfp_unit-gutter_wrapper
+
+! 9/6/2019 https://scammerblaster.com
+scammerblaster.com##ul.animated.columns.medium-4.large-4.block
+
+! 9/6/2019 https://www.vice.com
+www.vice.com##.newsletter-wrapper
+||oembed.vice.com$subdocument
+
+! 9/9/2019 https://www.amazon.com
+www.amazon.com##[href^="https://www.amazon.com/b/ref=OTC19_GW_dp_ILM2_deals_multilanguage"]
+
+! 9/10/2019 https://urbanthesaurus.org
+urbanthesaurus.org##button.scroll-to-top
+
+! 9/12/2019 https://urbanthesaurus.org
+urbanthesaurus.org##.words > div
+urbanthesaurus.org##.about-area
+
+! 9/16/2019 https://onyolo.com
+onyolo.com##.policy
+onyolo.com##.watermark
+
+! 9/18/2019 https://www.politifact.com
+www.politifact.com##.cookie-notice-wrapper
+www.politifact.com###ad-topleaderboard
+www.politifact.com##div.widget.pfad
+www.politifact.com###mc_embed_signup
+www.politifact.com##[href="/2020tshirt/"]
+www.politifact.com##.subscribe.widget
+www.politifact.com##.social-vert
+www.politifact.com##.footer-arrow
+www.politifact.com##.footer-totop
+www.politifact.com##.footer-signup
+www.politifact.com##.scorecard__feeds
+www.politifact.com##.article__share
+www.politifact.com###ad-bottomleaderboard
+
+! 9/19/2019 https://www.movoto.com
+www.movoto.com##.social-links
+
+! 9/20/2019 https://www.movoto.com
+www.movoto.com##div.row.relative-link
+www.movoto.com###sms
+
+! 9/20/2019 https://www.amazon.com
+www.amazon.com###alexaInteractionCanned_feature_div
+www.amazon.com##.ac-mobile-for-text
+www.amazon.com###mars-comp-chart_feature_div
+www.amazon.com###sellYoursHere
+www.amazon.com##.module-5.aplus-module.celwidget
+www.amazon.com##[href^="/Low-Price-With-Free-Shipping/bbp"]
+www.amazon.com###audible_buybox_accordion
+www.amazon.com##[href^="/b/ref=AW_US_MOB_ILM_V1"]
+www.amazon.com###detailILMPercolate_feature_div
+
+! 9/20/2019 https://en.m.wikipedia.org
+en.m.wikipedia.org###siteNotice
+
+! 9/20/2019 https://www.xda-developers.com
+www.xda-developers.com##.xda-post-related
+www.xda-developers.com###purch_Y_R_0_5
+www.xda-developers.com##.panel-list--social
+www.xda-developers.com##nav.panel-section:nth-of-type(3)
+www.xda-developers.com##[href="https://www.xda-developers.com/newsletter-signup/"]
+
+! 9/20/2019 https://www.file-up.org
+www.file-up.org##[src="https://www.file-up.org/assets/images/logo_new.png"]
+
+! 9/20/2019 https://www.google.com
+www.google.com##.fOwUFe
+www.google.com##.JolIg
+
+! 9/20/2019 https://www.brookdalecc.edu
+www.brookdalecc.edu###spu-bg-91474
+www.brookdalecc.edu###spu-91474
+www.brookdalecc.edu##.social-list
+
+! 9/20/2019 https://www.whatismybrowser.com
+www.whatismybrowser.com##.matched-content-page.matched-content.responsive.fun
+www.whatismybrowser.com##.fun-block.content-block > .responsive.fun
+
+! 9/20/2019 https://www.pornhub.com
+www.pornhub.com##.premiumPromoBanner
+www.pornhub.com##.homePageFooter.socialIconsWrapper
+www.pornhub.com##.networkSites
+www.pornhub.com##.bottom.pageHeader
+www.pornhub.com##.combineCategory
+www.pornhub.com##.relatedSearches > .title
+
+! 9/20/2019 https://www.apkmirror.com
+www.apkmirror.com##.promotedApp
+
+! 9/20/2019 https://www.theatlantic.com
+www.theatlantic.com##.c-nudge-expanded__container.c-nudge__container
+
+! 9/20/2019 https://github.com
+github.com##.switch-to-desktop
+github.com##.lh-condensed-ultra.mb-sm-0.mb-3.flex-items-center.d-flex.list-style-none

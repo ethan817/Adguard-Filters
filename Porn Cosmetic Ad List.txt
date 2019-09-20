@@ -1,0 +1,335 @@
+! 3/31/2019 https://www.pornhub.com
+www.pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass:nth-of-type(3)
+www.pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass:nth-of-type(4)
+www.pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass:nth-of-type(2)
+www.pornhub.com##a.noImage.floatLeft.upperCase.blackBtn.buttonClass:nth-of-type(1)
+www.pornhub.com###downloadTansoDl
+www.pornhub.com###shareModal
+www.pornhub.com##.loggedOut.floatRight.mini.subscribeButton
+www.pornhub.com##.platformChangeMiddle.platformChange
+www.pornhub.com##.linkGroup
+www.pornhub.com##.footer-title
+www.pornhub.com##.footerMainText.footer
+www.pornhub.com##a.platformChange:nth-of-type(2)
+www.pornhub.com##a.platformChange:nth-of-type(4)
+www.pornhub.com##.footerThumbs
+www.pornhub.com##.fanClubButtons.clearfix.targetContainer.categoryRow
+www.pornhub.com##.fourTabs.clearfix.tabs > li:nth-of-type(2)
+www.pornhub.com##.one_section.becomeFan_sendTip_wrap
+www.pornhub.com##.paidClips.flow.contentContainer
+www.pornhub.com###paidVideosSection
+www.pornhub.com##.premiumVideos.pageTitle
+www.pornhub.com###androidAppBar
+www.pornhub.com##.removeAdLink.headerUpgradePremiumBtn
+www.pornhub.com##div.menuSection:nth-of-type(5)
+www.pornhub.com##div.menuSection:nth-of-type(6)
+www.pornhub.com##div.menuSection:nth-of-type(7) > [href^="/front/set_pc"]
+www.pornhub.com##[href="/gay/gifs"]
+www.pornhub.com##[href="http://www.pornhubselect.com"]
+
+! 3/31/2019 https://menhdv.com
+menhdv.com##.-peep-out.chat
+menhdv.com##.coop-block
+menhdv.com##.list > a.element:nth-of-type(7)
+menhdv.com##.js-soc._clearfix.soc-share-buttons
+menhdv.com##.list > a.element:nth-of-type(2)
+menhdv.com##.js-soc.video-share-icons
+menhdv.com##.chat
+menhdv.com##.-page.tags-list
+menhdv.com##h3.small-page-title:nth-of-type(4)
+menhdv.com##.small-notice
+menhdv.com##.models-list
+menhdv.com##h3.small-page-title:nth-of-type(3)
+menhdv.com##.sct.-yellow.site-button
+
+! 3/31/2019 https://thisvid.com
+thisvid.com###ts_ad_native_7kl4q
+thisvid.com##.links
+thisvid.com##a.tab:nth-of-type(1)
+thisvid.com###flagging_container
+thisvid.com##.column-right
+
+! 3/31/2019 http://gay.xtapes.to
+gay.xtapes.to###\39 b96040020000190566427217
+gay.xtapes.to##.backtotopinstance.border-radius-5.backTopLink
+||st.chatango.com/h5/gz/r0327191219/it.html$subdocument
+gay.xtapes.to###sidebar
+gay.xtapes.to##.share-buttons
+gay.xtapes.to###comments
+
+! 3/31/2019 https://www.redtube.com
+www.redtube.com###our_friends_videos
+www.redtube.com###our_friends_header
+www.redtube.com###footer-textcloud
+www.redtube.com##.social-links
+www.redtube.com##.section_wrapper.footer_section
+www.redtube.com##.js_upgrade_modal.menu_elem
+www.redtube.com##[href="/live"]
+www.redtube.com###below_footer_ad_content
+
+! 3/31/2019 https://m.chaturbate.com
+||ssl-ccstatic.highwebmedia.com/mobileassets/*g$image
+
+! 4/13/2019 https://www.pornhub.com
+www.pornhub.com###mobileContainer > .clearfix.adContainer
+www.pornhub.com##.clearfix.videoList > .premiumAdvertWrapper
+www.pornhub.com##.fullWidth.pageWrapper > .clearfix.adContainer
+www.pornhub.com##.fullWidth.pageWrapper > .premiumAdvertWrapper
+www.pornhub.com##.categoryIndexLink
+www.pornhub.com##.topAdContainter
+www.pornhub.com###welcomeVideoMsg
+www.pornhub.com##.middleAdContainer.clearfix.adContainer
+www.pornhub.com##div.clearfix.adContainer:nth-of-type(4)
+www.pornhub.com##div.clearfix.adContainer:nth-of-type(6)
+www.pornhub.com##.centerPadded
+www.pornhub.com##.scrollTop.floatRight.feedBottomBtn.blackOragneBtn.buttonClass
+www.pornhub.com###postWrap
+www.pornhub.com###adSpot
+www.pornhub.com##div.menuSection:nth-of-type(4) > h3
+
+! 4/13/2019 https://menhdv.com
+menhdv.com###comments-info
+||menhdv.com/img/content/model.jpg$image
+menhdv.com##.comments
+menhdv.com##h3.small-page-title:nth-of-type(1)
+menhdv.com##.js-fav
+menhdv.com##.js-subscribe
+menhdv.com###video-share-page
+
+! 4/13/2019 https://www.redtube.com
+www.redtube.com###top_ad_container
+www.redtube.com###recommended_videos_section
+www.redtube.com###free_porn_videos_section > .clearfix.adContainer
+www.redtube.com###recommended_ps_section
+www.redtube.com###trending_searches
+www.redtube.com###top_rated_playlists_section
+www.redtube.com###redtube_layout > .clearfix.adContainer
+www.redtube.com###top_tabs
+www.redtube.com###menu_socials
+www.redtube.com##ul.menu_list:nth-of-type(5)
+www.redtube.com###browse_categories_section > .clearfix.adContainer
+www.redtube.com##.js_upgrade_modal.between_videos
+www.redtube.com###video_top_ads
+www.redtube.com##.subscribe_btn_icon.rt_Menu_User_Subscriptions.rt_icon
+www.redtube.com##.video_actions_container
+www.redtube.com##.js_rt_overlay.cboxElement.add-pornstar-link.add_pornstar_btn
+www.redtube.com##.round_box
+www.redtube.com##div.video_details:nth-of-type(6)
+www.redtube.com##.clearfix.tab-block-content-wrap
+www.redtube.com##.gallery_tab_section.clearfix.tab-block-wrap
+www.redtube.com##.content_limit.gallery_share
+www.redtube.com##.gallery_header_right
+www.redtube.com###favAddRemovePhoto9838381
+www.redtube.com##.photoFlag
+
+! 4/13/2019 https://thisvid.com
+thisvid.com##.sidebar
+thisvid.com##.bottom-spots
+thisvid.com##p:nth-of-type(1)
+thisvid.com##.footer-nav > ul
+thisvid.com##.footer-logo > span
+thisvid.com##.nav-header
+thisvid.com##.welcome
+thisvid.com##.mn-related-container
+
+! 4/13/2019 https://www.gaymaletube.com
+www.gaymaletube.com##.show.scroll-to-top
+www.gaymaletube.com##.advertisers.footer-sub-menu
+www.gaymaletube.com##.container.legal
+www.gaymaletube.com##.site-title
+www.gaymaletube.com###thumb-HuMa3mVF8En > .thumb-container > .report
+
+! 4/13/2019 https://m.boyfriendtv.com
+m.boyfriendtv.com##.adblock-small.adblock
+m.boyfriendtv.com###cookie-wrapper
+m.boyfriendtv.com##.adblock-big.adblock
+m.boyfriendtv.com##.footer > .container
+m.boyfriendtv.com##.object-nav-wrapper > ul
+m.boyfriendtv.com##.no-popup.top-links-menu
+m.boyfriendtv.com##.fa-fw.fa-eye.fa
+m.boyfriendtv.com##.footer
+
+! 4/13/2019 https://www.cams.boyfriendtv.com
+www.cams.boyfriendtv.com###personalizedContent
+www.cams.boyfriendtv.com##.js_toolbar.mc_toolbar
+www.cams.boyfriendtv.com##.js_chat_content.mc_chat_content
+www.cams.boyfriendtv.com##.mc_js_header_status.mc_promo_container.mc_header_hideable
+www.cams.boyfriendtv.com###personalizedContent
+www.cams.boyfriendtv.com###messenger-page-link
+
+! 4/13/2019 https://m.chaturbate.com
+m.chaturbate.com###Vh > span
+m.chaturbate.com##[src="https://ssl-ccstatic.highwebmedia.com/mobileassets/expand.svg"]
+m.chaturbate.com###Wh
+m.chaturbate.com##li.hl:nth-of-type(5)
+
+! 4/13/2019 https://www.xvideos.com
+www.xvideos.com###mobile-slogan
+www.xvideos.com###footer
+www.xvideos.com###ad-header-mobile-contener
+www.xvideos.com##.tab-buttons
+
+! 4/13/2019 https://leakedmeat.com
+leakedmeat.com##.normal.stag-social-icons
+
+! 4/13/2019 https://celebritygay.com
+celebritygay.com##div.banner:nth-of-type(1)
+celebritygay.com##.mob-banner.wrap-side-ban
+celebritygay.com##footer > .container
+celebritygay.com##div.wrap-side-ban:nth-of-type(1)
+celebritygay.com##div.wrap-side-ban:nth-of-type(4)
+celebritygay.com##div.panel-linklist:nth-of-type(5)
+celebritygay.com##.friendlist.panel-linklist
+celebritygay.com##.total-p.panel-linklist
+celebritygay.com##.mob-menu > li:nth-of-type(5)
+
+! 4/13/2019 https://www.xnxx.com
+www.xnxx.com##.slogan
+www.xnxx.com###footer
+www.xnxx.com###ad-header-mobile-contener
+www.xnxx.com##.tab-buttons
+www.xnxx.com###video-rename
+www.xnxx.com###site-nav
+www.xnxx.com###content-ad-top-zone-contener
+www.xnxx.com##div.x-message-info.x-message:nth-of-type(3)
+www.xnxx.com###x-home-messages
+
+! 4/13/2019 https://www.porntube.com
+www.porntube.com##.react-cookie-banner
+www.porntube.com##.ad
+www.porntube.com##.hidden-collapse-up.mobile-tabs
+www.porntube.com##.social
+www.porntube.com##.pre-footer.container-fluid
+www.porntube.com##footer.container-fluid
+www.porntube.com##.header.row
+www.porntube.com##.mobile-actions.hidden-lg-up.col-12 > .download
+www.porntube.com##.mobile-actions.hidden-lg-up.col-12 > .addToButton
+www.porntube.com##.mobile-actions.hidden-lg-up.col-12 > [href="#comments"]
+www.porntube.com##.cpp-text-ad.col-12
+www.porntube.com##.text-center.col-12
+www.porntube.com##.subscribe-button
+www.porntube.com##.share.col-sm-5.col-12
+
+! 4/13/2019 https://m.xhamster.com
+m.xhamster.com##div.wid-spot-container:nth-of-type(3)
+m.xhamster.com##.no-popunder.cookie-announce.bottom-announce
+m.xhamster.com##.socials
+m.xhamster.com##div.wid-spot-container:nth-of-type(8)
+m.xhamster.com##.top_links
+m.xhamster.com##footer
+m.xhamster.com###top_menu_items
+m.xhamster.com##.video_info > .rendered.underplayer.wid-cams-widget
+m.xhamster.com##.xplayer-menu-mobile-right
+m.xhamster.com##.xplayer-download-control
+m.xhamster.com##.xplayer-screenshot-control
+m.xhamster.com##.xplayer-favorite-control
+m.xhamster.com###tsbottom
+m.xhamster.com###tsmiddle
+m.xhamster.com##.video-view-ads--centered.video-view-ads
+m.xhamster.com###type_categories_list
+
+! 4/13/2019 http://www.onlydudes.com
+www.onlydudes.com##div.breadcrumb:nth-of-type(12)
+www.onlydudes.com##.red-update.update-item
+www.onlydudes.com##.green-update.update-item
+www.onlydudes.com##.blue-update.update-item
+www.onlydudes.com##.orange-update.update-item
+www.onlydudes.com##div.breadcrumb:nth-of-type(22)
+www.onlydudes.com##.footer > h2.center-text
+
+! 4/13/2019 https://www.gaytube.com
+www.gaytube.com##.clearfix.advert-section
+www.gaytube.com##.footer-content
+www.gaytube.com##.clearfix.seo-section
+www.gaytube.com###adsLi
+www.gaytube.com##.over-player-text-wrap
+www.gaytube.com##.ad-wrapper
+www.gaytube.com##.text-center.video-under-player-sponsor
+www.gaytube.com##.text-center.rkl-block
+www.gaytube.com##.video-comments
+www.gaytube.com##.margin-bottom-10.position-relative.font-21.operations-block
+
+! 4/13/2019 https://www.youporngay.com
+www.youporngay.com###floatingBanner
+www.youporngay.com##.promo-message
+www.youporngay.com##.event-row-wrapper
+www.youporngay.com##.homepage_recommended_categories.row
+www.youporngay.com##.clearfix.listCollectionMob
+www.youporngay.com###mobileContainer > .clearfix.ad-wrapper
+www.youporngay.com###footer
+www.youporngay.com##.inlineTooltipCntr
+www.youporngay.com##.listCollectionMob > .heading1
+www.youporngay.com##.listCollectionMob > .collectionTitle.wrapTitle
+www.youporngay.com###header > .clearfix.ad-wrapper
+www.youporngay.com###paidSites
+www.youporngay.com###content > .clearfix.ad-wrapper
+www.youporngay.com##.clearfix.ios-video-intreaction.videoInteraction > li:nth-of-type(7)
+www.youporngay.com##.clearfix.ios-video-intreaction.videoInteraction > li:nth-of-type(6)
+www.youporngay.com##.video-info
+www.youporngay.com##.clearfix.ios-video-intreaction.videoInteraction > li:nth-of-type(4)
+www.youporngay.com##.button_user_7395719.user_subscription_button.subscription_button > span
+
+! 4/13/2019 https://www.redtube.com
+www.redtube.com###video_tabs_section
+
+! 4/13/2019 https://www.gayporno.fm
+www.gayporno.fm##.header-spot.b-mobile-spots
+www.gayporno.fm###ticker
+www.gayporno.fm##.b-mobile-random-links
+www.gayporno.fm##div.b-mobile-spots-wrap:nth-of-type(17)
+www.gayporno.fm##div.b-mobile-spots-wrap:nth-of-type(34) > .b-mobile-spots-wrap__inner
+www.gayporno.fm##div.b-mobile-spots-wrap:nth-of-type(51) > .b-mobile-spots-wrap__inner > .footer-spot.js-b-mobile-spots.b-mobile-spots
+www.gayporno.fm##.clearfix.b-tabs-navigation
+www.gayporno.fm##.b-mobile-spots-wrap
+
+! 4/13/2019 https://www.omegle.com
+www.omegle.com###topicsettingscontainer > div > div:nth-of-type(4)
+www.omegle.com###introtext
+www.omegle.com###footer
+
+! 4/13/2019 https://www.mansurfer.com
+www.mansurfer.com##.headerbanner.fluid
+
+! 4/13/2019 https://www.tube8.com
+www.tube8.com###js-mobile-top-banner
+www.tube8.com###floatingAdContainer
+www.tube8.com##bottom-adblock
+www.tube8.com###announcement_ticker
+www.tube8.com##top-nav
+www.tube8.com###getPaid
+www.tube8.com###videopageadblock
+www.tube8.com###banner-container_
+www.tube8.com###shareMainBox
+www.tube8.com##.try-premium-logo-link
+
+! 4/13/2019 http://www.rushporn.com
+www.rushporn.com##.bottom
+www.rushporn.com##.fluid-b
+www.rushporn.com###playerr > div:nth-of-type(8)
+
+! 4/13/2019 https://www.boy18tube.com
+www.boy18tube.com##.header-spot.mobile-random
+www.boy18tube.com##.b-mobile-random-links
+www.boy18tube.com###ticker
+www.boy18tube.com##div.footer-spot.js-b-mobile-spots.mobile-random:nth-of-type(17)
+www.boy18tube.com##div.footer-spot.js-b-mobile-spots.mobile-random:nth-of-type(34)
+www.boy18tube.com##div.footer-spot.js-b-mobile-spots.mobile-random:nth-of-type(51)
+www.boy18tube.com##div.footer-spot.js-b-mobile-spots.mobile-random:nth-of-type(68)
+www.boy18tube.com##div.footer-spot.js-b-mobile-spots.mobile-random:nth-of-type(85)
+
+! 4/13/2019 http://gay.xtapes.to
+gay.xtapes.to##.box-shadow.border-radius-5.home
+
+! 4/13/2019 https://www.thumbzilla.com
+www.thumbzilla.com###greeting
+www.thumbzilla.com##.text
+www.thumbzilla.com###tagsDisplay
+www.thumbzilla.com##.logo
+
+! 4/13/2019 https://www.icegay.tv
+www.icegay.tv###ticker
+www.icegay.tv##.header-spot.b-mobile-spots
+www.icegay.tv###playlist-wrapper
+www.icegay.tv##.b-mobile-spots-wrap
+www.icegay.tv##.cleafix.f-right.b-tabs-nav
+www.icegay.tv##.b-tabs-content
